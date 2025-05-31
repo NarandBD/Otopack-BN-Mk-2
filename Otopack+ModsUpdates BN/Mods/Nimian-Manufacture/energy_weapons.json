@@ -1,0 +1,165 @@
+[
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "nmlaspistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "nmlaspistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "nmlaspistol",
+        "files" : [
+            "Mods/Nimian-Manufacture/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "nmslfchrgpistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "nmslfchrgpistol",
+        "files" : [
+            "guns/eweapons/v29_1.ogg",
+			"guns/eweapons/v29_2.ogg",
+			"guns/eweapons/v29_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 70,
+        "variant" : "nmteslacoil",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 70,
+        "variant" : "nmteslacoil",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 70,
+        "variant" : "nmteslacoilmk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 70,
+        "variant" : "nmteslacoilmk2",
+        "files" : [
+            "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_2.ogg",
+			"bionics/elec_crackle_high_1.ogg",
+			"bionics/elec_crackle_high_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "nmlasrifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "nmlasrifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "nmlasrifle",
+        "files" : [
+            "Mods/Nimian-Manufacture/batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "nmhvlasrifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "nmhvlasrifle",
+        "files" : [
+            "guns/eweapons/laser_rifle_1.ogg",
+			"guns/eweapons/laser_rifle_2.ogg",
+			"guns/eweapons/laser_rifle_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "nmhvlasrifle",
+        "files" : [
+            "Mods/Nimian-Manufacture/batterygun_reload.ogg"
+        ]
+    }
+]
