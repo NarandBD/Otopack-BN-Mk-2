@@ -143,7 +143,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 40,
+        "volume" : 30,
         "variant" : "longrifle_flintlock",
         "files" : [
 			"guns/flintlock/flintlock_2.ogg"
