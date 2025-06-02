@@ -1,0 +1,218 @@
+[
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_disp_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_disp_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_disp_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_disp_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_greater",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_lesser",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_magic_missile_minor",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "wand_magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "wand_magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_distant.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wand_magic_missile",
+        "files" : [
+            "Mods/MagicalNights/magicmissile_reload.ogg"
+		]
+	}
+]

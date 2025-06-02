@@ -371,5 +371,14 @@
             "bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg"
         ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "shout",
+        "variant" : "default",
+        "volume" : 35,
+        "files" : [
+            "effects/shout/scream.ogg"
+        ]
     }
 ]
