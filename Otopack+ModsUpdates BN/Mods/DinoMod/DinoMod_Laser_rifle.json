@@ -1,0 +1,29 @@
+[
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 40,
+        "variant" : "laser_rifle_dino2",
+        "files" : [
+            "Mods/DinoMod/laser_rifle_dino2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 25,
+        "variant" : "laser_rifle_dino2",
+        "files" : [
+            "Mods/DinoMod/laser_rifle_dino2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "laser_rifle_dino2",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    }
+]
