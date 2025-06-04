@@ -376,9 +376,9 @@
 		"type": "sound_effect",
         "id" : "shout",
         "variant" : "default",
-        "volume" : 35,
+        "volume" : 15,
         "files" : [
-            "effects/shout/scream.ogg"
+			"effects/shout/scream_2.ogg"
         ]
     }
 ]
