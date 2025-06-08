@@ -1,0 +1,54 @@
+[
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_panic",
+    "volume": 90,
+    "files": [
+      "Mods/CiviliansMod/female_scream_1.ogg",
+      "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_stationary",
+    "volume": 90,
+    "files": [
+      "Mods/CiviliansMod/female_scream_1.ogg",
+      "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_child",
+    "volume": 90,
+    "files": [
+      "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_parent",
+    "volume": 90,
+    "files": [
+      "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg"
+    ]
+  }
+]
