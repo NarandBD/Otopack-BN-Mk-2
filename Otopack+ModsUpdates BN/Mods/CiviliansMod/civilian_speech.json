@@ -5,11 +5,18 @@
     "variant": "mon_civilian_panic",
     "volume": 90,
     "files": [
-      "Mods/CiviliansMod/female_scream_1.ogg",
-      "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg"
+      "Mods/CiviliansMod/scream_female_1.ogg",
+      "Mods/CiviliansMod/scream_female_2.ogg",
+	  "Mods/CiviliansMod/scream_female_3.ogg",
+	  "Mods/CiviliansMod/female_inhuman_1.ogg",
+	  "Mods/CiviliansMod/female_inhuman_2.ogg",
+	  "Mods/CiviliansMod/female_inhuman_3.ogg",
+	  "Mods/CiviliansMod/scream_male_1.ogg",
+	  "Mods/CiviliansMod/scream_male_2.ogg",
+	  "Mods/CiviliansMod/scream_male_3.ogg",
+	  "Mods/CiviliansMod/male_inhuman_1.ogg",
+	  "Mods/CiviliansMod/male_inhuman_2.ogg",
+	  "Mods/CiviliansMod/male_inhuman_3.ogg"
     ]
   },
   {
@@ -18,11 +25,18 @@
     "variant": "mon_civilian_stationary",
     "volume": 90,
     "files": [
-      "Mods/CiviliansMod/female_scream_1.ogg",
-      "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg"
+      "Mods/CiviliansMod/scream_female_1.ogg",
+      "Mods/CiviliansMod/scream_female_2.ogg",
+	  "Mods/CiviliansMod/scream_female_3.ogg",
+	  "Mods/CiviliansMod/female_inhuman_1.ogg",
+	  "Mods/CiviliansMod/female_inhuman_2.ogg",
+	  "Mods/CiviliansMod/female_inhuman_3.ogg",
+	  "Mods/CiviliansMod/scream_male_1.ogg",
+	  "Mods/CiviliansMod/scream_male_2.ogg",
+	  "Mods/CiviliansMod/scream_male_3.ogg",
+	  "Mods/CiviliansMod/male_inhuman_1.ogg",
+	  "Mods/CiviliansMod/male_inhuman_2.ogg",
+	  "Mods/CiviliansMod/male_inhuman_3.ogg"
     ]
   },
   {
@@ -35,6 +49,7 @@
 	  "Mods/CiviliansMod/female_scream_1.ogg",
 	  "Mods/CiviliansMod/female_scream_1.ogg",
 	  "Mods/CiviliansMod/female_scream_1.ogg",
+	  "Mods/CiviliansMod/female_scream_1.ogg",
 	  "Mods/CiviliansMod/female_scream_1.ogg"
     ]
   },
@@ -44,11 +59,18 @@
     "variant": "mon_civilian_parent",
     "volume": 90,
     "files": [
-      "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg"
+      "Mods/CiviliansMod/scream_female_1.ogg",
+      "Mods/CiviliansMod/scream_female_2.ogg",
+	  "Mods/CiviliansMod/scream_female_3.ogg",
+	  "Mods/CiviliansMod/female_inhuman_1.ogg",
+	  "Mods/CiviliansMod/female_inhuman_2.ogg",
+	  "Mods/CiviliansMod/female_inhuman_3.ogg",
+	  "Mods/CiviliansMod/scream_male_1.ogg",
+	  "Mods/CiviliansMod/scream_male_2.ogg",
+	  "Mods/CiviliansMod/scream_male_3.ogg",
+	  "Mods/CiviliansMod/male_inhuman_1.ogg",
+	  "Mods/CiviliansMod/male_inhuman_2.ogg",
+	  "Mods/CiviliansMod/male_inhuman_3.ogg"
     ]
   }
 ]

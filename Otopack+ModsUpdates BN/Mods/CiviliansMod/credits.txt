@@ -1,0 +1,16 @@
+scream_female_1.ogg -> Sound Effect by Alexander Jauk from Pixabay
+scream_female_2.ogg -> Sound Effect by freesound_community from Pixabay
+scream_female_3.ogg -> Sound Effect by freesound_community from Pixabay
+
+female_inhuman_1.ogg -> Sound Effect by freesound_community from Pixabay
+female_inhuman_2.ogg -> Sound Effect by freesound_community from Pixabay
+female_inhuman_3.ogg -> Sound Effect by Ribhav Agrawal from Pixabay
+
+scream_male_1.ogg -> Sound Effect by freesound_community from Pixabay
+scream_male_2.ogg -> Sound Effect by freesound_community from Pixabay
+scream_male_3.ogg -> Sound Effect by Universfield from Pixabay
+
+male_inhuman_1.ogg -> Sound Effect by freesound_community from Pixabay
+male_inhuman_2.ogg -> Sound Effect by freesound_community from Pixabay
+male_inhuman_3.ogg -> Sound Effect by freesound_community from Pixabay
+
