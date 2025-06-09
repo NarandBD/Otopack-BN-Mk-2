@@ -10,6 +10,7 @@ _**If you want to get the latest updates/version, all you gotta do is download t
 Credits to SURVIVAL_MAN for the Original Otopack from the CDDA forums, Kenan2000 for his additions/fixes over the years and Aeiouuu01234 for the 450 Bushmaster addition from his fork that I added for the "What i have on hand" release (I don't even know if that gun is in BN lol).
 
 Also credits to Fris0uman for the feral screams and zombie moaning folders and sounds (they will be/are being utilized), and CO.AG for their banging music!
-:D->-<
+
+:D->-<|:
 
 I do not own any of the sounds/music used, I am merely adding to and modifying this soundpack alongside others.
