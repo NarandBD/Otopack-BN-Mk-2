@@ -3,7 +3,7 @@
 	"type": "sound_effect",
     "id": "speech",
     "variant": "mon_civilian_panic",
-    "volume": 90,
+    "volume": 50,
     "files": [
       "Mods/CiviliansMod/scream_female_1.ogg",
       "Mods/CiviliansMod/scream_female_2.ogg",
@@ -23,7 +23,7 @@
 	"type": "sound_effect",
     "id": "speech",
     "variant": "mon_civilian_stationary",
-    "volume": 90,
+    "volume": 50,
     "files": [
       "Mods/CiviliansMod/scream_female_1.ogg",
       "Mods/CiviliansMod/scream_female_2.ogg",
@@ -43,21 +43,21 @@
 	"type": "sound_effect",
     "id": "speech",
     "variant": "mon_civilian_child",
-    "volume": 90,
+    "volume": 50,
     "files": [
-      "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg",
-	  "Mods/CiviliansMod/female_scream_1.ogg"
+      "Mods/CiviliansMod/child_demon_scream_1.ogg",
+	  "Mods/CiviliansMod/child_demon_scream_2.ogg",
+	  "Mods/CiviliansMod/child_demon_scream_3.ogg",
+	  "Mods/CiviliansMod/child_inhuman_litterally_1.ogg",
+	  "Mods/CiviliansMod/child_inhuman_litterally_2.ogg",
+	  "Mods/CiviliansMod/child_inhuman_litterally_3.ogg"
     ]
   },
   {
 	"type": "sound_effect",
     "id": "speech",
     "variant": "mon_civilian_parent",
-    "volume": 90,
+    "volume": 50,
     "files": [
       "Mods/CiviliansMod/scream_female_1.ogg",
       "Mods/CiviliansMod/scream_female_2.ogg",
@@ -71,6 +71,42 @@
 	  "Mods/CiviliansMod/male_inhuman_1.ogg",
 	  "Mods/CiviliansMod/male_inhuman_2.ogg",
 	  "Mods/CiviliansMod/male_inhuman_3.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_zombiefighter",
+    "volume": 50,
+    "files": [
+      "Mods/CiviliansMod/warcry_male_1.ogg",
+      "Mods/CiviliansMod/warcry_male_2.ogg",
+	  "Mods/CiviliansMod/warcry_male_3.ogg",
+	  "Mods/CiviliansMod/warcry_male_4.ogg",
+	  "Mods/CiviliansMod/warcry_male_5.ogg",
+	  "Mods/CiviliansMod/warcry_female_1.ogg",
+	  "Mods/CiviliansMod/warcry_female_2.ogg",
+	  "Mods/CiviliansMod/warcry_female_3.ogg",
+	  "Mods/CiviliansMod/warcry_female_4.ogg",
+	  "Mods/CiviliansMod/warcry_female_5.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_police",
+    "volume": 40,
+    "files": [
+      "Mods/CiviliansMod/warcry_male_1.ogg",
+      "Mods/CiviliansMod/warcry_male_2.ogg",
+	  "Mods/CiviliansMod/warcry_male_3.ogg",
+	  "Mods/CiviliansMod/warcry_male_4.ogg",
+	  "Mods/CiviliansMod/warcry_male_5.ogg",
+	  "Mods/CiviliansMod/warcry_female_1.ogg",
+	  "Mods/CiviliansMod/warcry_female_2.ogg",
+	  "Mods/CiviliansMod/warcry_female_3.ogg",
+	  "Mods/CiviliansMod/warcry_female_4.ogg",
+	  "Mods/CiviliansMod/warcry_female_5.ogg"
     ]
   }
 ]

@@ -14,3 +14,14 @@ male_inhuman_1.ogg -> Sound Effect by freesound_community from Pixabay
 male_inhuman_2.ogg -> Sound Effect by freesound_community from Pixabay
 male_inhuman_3.ogg -> Sound Effect by freesound_community from Pixabay
 
+child_inhuman_litterally_1.ogg -> Half life 1 lol, Valve
+child_inhuman_litterally_2.ogg -> Half life 1 lol, Valve
+child_inhuman_litterally_3.ogg -> Half life 1 lol, Valve
+
+child_demon_scream_1.ogg -> Half life 1 lol, Valve
+child_demon_scream_2.ogg -> Half life 1 lol, Valve
+child_demon_scream_3.ogg -> Half life 1 lol, Valve
+
+warcry_male_1 through 5 -> cmss13-devs / cmss13 on github, cmss13/sound/voice/warcry/
+
+warcry_female_1 through 5 -> cmss13-devs / cmss13 on github, cmss13/sound/voice/warcry/
