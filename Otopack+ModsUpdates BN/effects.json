@@ -1321,5 +1321,14 @@
 			"monster/horse_neighing_1.ogg",
 			"monster/horse_neighing_2.ogg"
         ]
-    }
+    },
+	{
+		"type": "sound_effect",
+        "id" : "misc",
+        "variant" : "rc_car_hits_obstacle",
+        "volume" : 50,
+        "files" : [
+            "effects/misc/rc_car_hits_obstacle.ogg"
+		]
+	}
 ]
