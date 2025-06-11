@@ -1,0 +1,5 @@
+Laser.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+lp.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+
+gatling_energy.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+gatling_energy_alt.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons

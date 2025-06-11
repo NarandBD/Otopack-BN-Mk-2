@@ -2,82 +2,39 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "plasma_rifle",
+        "volume" : 20,
+        "variant" : "crt_laser_pistol",
         "files" : [
-             "guns/eweapons/plasma_rifle.ogg"
+             "Mods/CRIT/lp.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 75,
-        "variant" : "plasma_rifle",
+        "volume" : 10,
+        "variant" : "crt_laser_pistol",
         "files" : [
-             "guns/eweapons/plasma_rifle.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 75,
-        "variant" : "plasma_rifle",
-        "files" : [
-            "guns/reload/eweapons/plasma_rifle.ogg"
+             "Mods/CRIT/lp.ogg"
         ]
     },
 	{
-        "type": "sound_effect",
+		"type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "plasma_gun",
+        "volume" : 35,
+        "variant" : "crt_laser_gatling",
         "files" : [
-             "guns/eweapons/plasma_gun.ogg"
+             "Mods/CRIT/gatling_energy.ogg",
+			 "Mods/CRIT/gatling_energy_alt.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 75,
-        "variant" : "plasma_gun",
+        "volume" : 20,
+        "variant" : "crt_laser_gatling",
         "files" : [
-             "guns/eweapons/plasma_gun.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 75,
-        "variant" : "plasma_gun",
-        "files" : [
-            "guns/reload/eweapons/plasma_gun.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "ftk93",
-        "files" : [
-             "guns/eweapons/ftk93.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 75,
-        "variant" : "ftk93",
-        "files" : [
-             "guns/eweapons/ftk93.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 75,
-        "variant" : "ftk93",
-        "files" : [
-            "guns/reload/eweapons/ftk93.ogg"
-        ]
-    }
+             "Mods/CRIT/gatling_energy.ogg",
+			 "Mods/CRIT/gatling_energy_alt.ogg"
+		]
+	}
 ]
