@@ -1,0 +1,5 @@
+A majority of the issues that Kenan closed or were left unsolved are relatively easy to fix, if not self explanatory. That's saying something from my lack of experience.
+
+This folder will document (somewhat) how these issues were solved, in particular the, what I'm calling them as, WTF issues created in his repository.
+
+In addition to this, documentation of how issues were solved that were particularly confusing for me and or others (see "??????" and "Needs documentation" tags for examples) will go here, categorized by subfolders as needed.

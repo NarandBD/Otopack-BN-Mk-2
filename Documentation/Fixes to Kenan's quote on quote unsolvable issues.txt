@@ -1,3 +1,0 @@
-A majority of the issues that Kenan closed or were left unsolved are relatively easy to fix, if not self explanatory. That's saying something from my lack of experience.
-
-This file will document (somewhat) how these issues were solved, in particular the, what I'm calling them as, WTF issues created in his repository.
