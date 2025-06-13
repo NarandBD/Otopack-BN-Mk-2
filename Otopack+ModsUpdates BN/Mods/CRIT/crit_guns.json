@@ -42,7 +42,7 @@
 	{
 		"type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 20,
+        "volume" : 25,
         "variant" : "crt_laser_carbine",
         "files" : [
              "Mods/CRIT/Laser.ogg"
@@ -51,10 +51,119 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 10,
+        "volume" : 15,
         "variant" : "crt_laser_carbine",
         "files" : [
              "Mods/CRIT/Laser.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 25,
+        "variant" : "crt_energy_rifle",
+        "files" : [
+             "Mods/CRIT/Laser_heavy.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 15,
+        "variant" : "crt_energy_rifle",
+        "files" : [
+             "Mods/CRIT/Laser_heavy.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 55,
+        "variant" : "crt_cqb_si",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 25,
+        "variant" : "crt_cqb_si",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "crt_cqb_si_shotgun",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "crt_cqb_si_shotgun",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 45,
+        "variant" : "crt_fire_glove",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "crt_fire_glove",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 40,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 60,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun_reload.ogg"
 		]
 	}
 ]

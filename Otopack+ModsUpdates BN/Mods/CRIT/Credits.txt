@@ -1,6 +1,14 @@
 Laser.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+Laser_heavy.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+
 lp_1.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
 lp_2.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+
 gatling_energy.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
 gatling_energy_alt.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+
+crt_cqb_si_shotgun_fire.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+
+pelletgun.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
+pelletgun_reload.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
 
