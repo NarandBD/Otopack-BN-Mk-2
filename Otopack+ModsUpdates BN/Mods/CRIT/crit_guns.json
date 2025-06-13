@@ -2,19 +2,21 @@
     {
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 20,
+        "volume" : 25,
         "variant" : "crt_laser_pistol",
         "files" : [
-             "Mods/CRIT/lp.ogg"
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 10,
+        "volume" : 15,
         "variant" : "crt_laser_pistol",
         "files" : [
-             "Mods/CRIT/lp.ogg"
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
         ]
     },
 	{
@@ -35,6 +37,24 @@
         "files" : [
              "Mods/CRIT/gatling_energy.ogg",
 			 "Mods/CRIT/gatling_energy_alt.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 20,
+        "variant" : "crt_laser_carbine",
+        "files" : [
+             "Mods/CRIT/Laser.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 10,
+        "variant" : "crt_laser_carbine",
+        "files" : [
+             "Mods/CRIT/Laser.ogg"
 		]
 	}
 ]
