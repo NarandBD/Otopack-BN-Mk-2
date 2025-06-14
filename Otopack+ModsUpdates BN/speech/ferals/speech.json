@@ -461,13 +461,12 @@
     "variant": "mon_feral_human_chainsaw",
     "volume": 40,
     "files": [
-	  "melee/chainsaw/saw_pull_4.ogg",
+	  "melee/chainsaw/saw_start_1.ogg",
 	  "melee/chainsaw/saw_start_2.ogg",
 	  "melee/chainsaw/saw_idle_loop_1.ogg",
 	  "melee/chainsaw/saw_rev_start_1.ogg",
 	  "melee/chainsaw/saw_rev_loop.ogg",
 	  "melee/chainsaw/saw_rev_end_1.ogg",
-	  "melee/chainsaw/saw_stop_2.ogg",
 	  "melee/chainsaw/saw_swing_full.ogg"
     ]
   },

@@ -1,0 +1,310 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 25,
+        "variant" : "crt_laser_pistol",
+        "files" : [
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 15,
+        "variant" : "crt_laser_pistol",
+        "files" : [
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "crt_laser_gatling",
+        "files" : [
+             "Mods/CRIT/gatling_energy.ogg",
+			 "Mods/CRIT/gatling_energy_alt.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "crt_laser_gatling",
+        "files" : [
+             "Mods/CRIT/gatling_energy.ogg",
+			 "Mods/CRIT/gatling_energy_alt.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 25,
+        "variant" : "crt_laser_carbine",
+        "files" : [
+             "Mods/CRIT/Laser.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 15,
+        "variant" : "crt_laser_carbine",
+        "files" : [
+             "Mods/CRIT/Laser.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 25,
+        "variant" : "crt_energy_rifle",
+        "files" : [
+             "Mods/CRIT/Laser_heavy.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 15,
+        "variant" : "crt_energy_rifle",
+        "files" : [
+             "Mods/CRIT/Laser_heavy.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 55,
+        "variant" : "crt_cqb_si",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 25,
+        "variant" : "crt_cqb_si",
+        "files" : [
+            "guns/9mm/9mm_1.ogg",
+			"guns/9mm/9mm_2.ogg",
+			"guns/9mm/9mm_3.ogg",
+			"guns/9mm/9mm_4.ogg",
+			"guns/9mm/9mm_5.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "crt_cqb_si_shotgun",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "crt_cqb_si_shotgun",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 45,
+        "variant" : "crt_fire_glove",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "crt_fire_glove",
+        "files" : [
+            "guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 40,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 60,
+        "variant" : "pelletgun",
+        "files" : [
+            "Mods/CRIT/pelletgun_reload.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 30,
+        "variant" : "ds_plasma_cutter",
+        "files" : [
+            "Mods/CRIT/plasmacutter_1.ogg",
+			"Mods/CRIT/plasmacutter_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "ds_plasma_cutter",
+        "files" : [
+            "Mods/CRIT/plasmacutter_1.ogg",
+			"Mods/CRIT/plasmacutter_2.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ds_plasma_cutter",
+        "files" : [
+            "Mods/CRIT/plasmacutter_reload.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 85,
+        "variant" : "ds_rivet_gun",
+        "files" : [
+            "Mods/Cata++/laser_lmg_1.ogg",
+			"Mods/Cata++/laser_lmg_2.ogg",
+			"Mods/Cata++/laser_lmg_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "ds_rivet_gun",
+        "files" : [
+            "Mods/Cata++/laser_lmg_1.ogg",
+			"Mods/Cata++/laser_lmg_2.ogg",
+			"Mods/Cata++/laser_lmg_3.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 30,
+        "variant" : "ds_line_gun",
+        "files" : [
+            "Mods/CRIT/linegun.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "ds_line_gun",
+        "files" : [
+            "Mods/CRIT/linegun.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ds_line_gun",
+        "files" : [
+            "Mods/Cata++/bolt_rifle_elec_reload.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "ds_pulse_rifle",
+        "files" : [
+            "Mods/CRIT/pulserifle_1.ogg",
+			"Mods/CRIT/pulserifle_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 25,
+        "variant" : "ds_pulse_rifle",
+        "files" : [
+            "Mods/CRIT/pulserifle_1.ogg",
+			"Mods/CRIT/pulserifle_2.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ds_pulse_rifle",
+        "files" : [
+            "Mods/CRIT/pulserifle_reload.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 70,
+        "variant" : "ds_ripper",
+        "files" : [
+            "melee/chainsaw/hit_metal_1.ogg",
+			"melee/chainsaw/hit_metal_2.ogg",
+			"melee/chainsaw/hit_metal_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 50,
+        "variant" : "ds_ripper",
+        "files" : [
+            "melee/chainsaw/hit_metal_1.ogg",
+			"melee/chainsaw/hit_metal_2.ogg",
+			"melee/chainsaw/hit_metal_3.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ds_ripper",
+        "files" : [
+            "melee/chainsaw/saw_pull_1.ogg",
+			"melee/chainsaw/saw_pull_2.ogg",
+			"melee/chainsaw/saw_pull_3.ogg",
+			"melee/chainsaw/saw_pull_4.ogg"
+		]
+	}
+]
