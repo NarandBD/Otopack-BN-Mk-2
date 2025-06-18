@@ -2,7 +2,7 @@
 ~~~
 The bar for sound quality isn't that high for me personally, as long as it sounds like how it should w/o copyright issues then it's fine.
 ~~~
-Contributions are welcome, I'll most likely release weekly or earlier releases containing all changes/additons.
+Suggestions are welcome, I'll most likely release weekly or earlier releases containing all changes/additons.
 
 _**If you want to get the latest updates/version, download the zip from the green button that says "<> code" above. Unzip the zip file, then drag and drop JUST Otopack+ModsUpdates BN into your sound folder. Make sure you have it set under settings.**_
 
