@@ -158,6 +158,27 @@
         ]
     },
 	{
+		"type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_glass",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletglass/hit_glass_1.ogg",
+			"effects/bulletglass/hit_glass_2.ogg"
+        ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "bullet_hit",
+        "variant" : "hit_water",
+        "volume" : 50,
+        "files" : [
+            "effects/bulletwater/hit_water_1.ogg",
+			"effects/bulletwater/hit_water_2.ogg",
+			"effects/bulletwater/hit_water_3.ogg"
+        ]
+    },
+	{
         "type": "sound_effect",
         "id" : "danger_low",
         "variant" : "default",

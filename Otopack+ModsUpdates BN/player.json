@@ -380,5 +380,14 @@
         "files" : [
 			"effects/shout/scream_2.ogg"
         ]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "activity",
+        "variant" : "burrow",
+        "volume" : 20,
+        "files" : [
+			"effects/activity/burrow.ogg"
+        ]
     }
 ]

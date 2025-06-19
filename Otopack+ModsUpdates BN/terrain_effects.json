@@ -20709,5 +20709,41 @@
 			"terrain/metal/smash_metal_9.ogg",
 			"terrain/metal/smash_metal_10.ogg"
 		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_web_bridge",
+        "volume" : 50,
+        "files" : [
+            "terrain/cloth/hit_cloth_1.ogg",
+			"terrain/cloth/hit_cloth_2.ogg",
+			"terrain/cloth/hit_cloth_3.ogg",
+			"terrain/cloth/hit_cloth_4.ogg",
+			"terrain/cloth/hit_cloth_5.ogg",
+			"terrain/cloth/hit_cloth_6.ogg",
+			"terrain/cloth/hit_cloth_7.ogg",
+			"terrain/cloth/hit_cloth_8.ogg",
+			"terrain/cloth/hit_cloth_9.ogg",
+			"terrain/cloth/hit_cloth_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_web_bridge",
+        "volume" : 50,
+        "files" : [
+            "terrain/cloth/smash_cloth_1.ogg",
+			"terrain/cloth/smash_cloth_2.ogg",
+			"terrain/cloth/smash_cloth_3.ogg",
+			"terrain/cloth/smash_cloth_4.ogg",
+			"terrain/cloth/smash_cloth_5.ogg",
+			"terrain/cloth/smash_cloth_6.ogg",
+			"terrain/cloth/smash_cloth_7.ogg",
+			"terrain/cloth/smash_cloth_8.ogg",
+			"terrain/cloth/smash_cloth_9.ogg",
+			"terrain/cloth/smash_cloth_10.ogg"
+		]
 	}
 ]
