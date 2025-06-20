@@ -75,14 +75,14 @@ at `data/sound/mypack/sfx.wav`.
 
 How stuff is formatted here is going to be slightly different from CBN's doc of this but not by much.
 I'm going to simply label all the sections with ids and their respective variants into three categories,
-- What I think does work/does indeed work. :white_check_mark for what works, and :grey_question for what I think works.
+- What I think does work/does indeed work. 👌 for what works, and ❔❔ for what I think works.
 and
-- What doesn't work. This will have a :x
+- What doesn't work. This will have a 💀
 
-### My understanding for stuff with :white_check_mark / :grey_question :
+### My understanding for stuff with 👌 / ❔❔ :
 Works as expected or works for the most part, with certain exceptions mentioned with parenthesis for specific sections.
 
-### My understanding for stuff with :x :
+### My understanding for stuff with 💀 :
 Might've worked on older releases of CBN, but I have yet to test this possibility.
 All I know is a mix of what i've tested so far and the fact that the docs for Soundpacks is two years outdated xd
 Subject to change or at least have a workaround mentioned, but unlikely as that'd be outside my current knowledge of assigning sounds.
@@ -101,33 +101,36 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 
     # opening/closing doors 
 
-- `open_door default|<furniture>|<terrain>` :white_check_mark
-- `close_door default|<furniture>|<terrain>` :white_check_mark
+- `open_door default|<furniture>|<terrain>` 👌
+- `close_door default|<furniture>|<terrain>` 👌
 
   # smashing attempts and results, few special ones and furniture/terrain specific
-- `bash default` :grey_question
-- `smash wall|door|door_boarded|glass|swing|web|paper_torn|metal` :grey_question
-- `smash_success hit_vehicle|smash_glass_contents|smash_cloth|<furniture>|<terrain>` :white_check_mark
-- `smash_fail default|<furniture>|<terrain>` :white_check_mark
+- `bash default` ❔❔
+- `smash wall|door|door_boarded|glass|swing|web|paper_torn|metal` ❔❔
+- `smash_success hit_vehicle|smash_glass_contents|smash_cloth|<furniture>|<terrain>` 👌
+- `smash_fail default|<furniture>|<terrain>` 👌
 
   # melee sounds
-- `melee_swing default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing` :white_check_mark
-- `melee_hit_flesh default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing|<weapon>` :white_check_mark
-- `melee_hit_metal default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing!<weapon>` :white_check_mark
-- `melee_hit <weapon>` # note: use weapon id "null" for unarmed attacks (haven't used/tested `null` yet but maybe.) :grey_question
+- `melee_swing default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing` 👌
+- `melee_hit_flesh default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing|<weapon>` 👌
+- `melee_hit_metal default|small_bash|small_cutting|small_stabbing|big_bash|big_cutting|big_stabbing!<weapon>` 👌
+
+- `melee_hit <weapon>` # note: use weapon id "null" for unarmed attacks ❔❔
+(haven't used/tested `null` yet but maybe.)
 
   # firearm/ranged weapon sounds
-- `fire_gun <weapon>|brass_eject|empty` :white_check_mark
+- `fire_gun <weapon>|brass_eject|empty` 👌
 (`fire_gun empty` doesn't do anything as it's not supported sadly, the rest work. Might make an issue to suggest adding empty firing.)
 
-- `fire_gun_distant <weapon>` :white_check_mark
-- `reload <weapon>` :white_check_mark
+- `fire_gun_distant <weapon>` 👌
+- `reload <weapon>` 👌
 (Works for a majority of guns, except specific ones/types i've documented on related issues or pull requests. Most of the time works.)
 
-- `bullet_hit hit_flesh|hit_wall|hit_metal|hit_glass|hit_water` :grey_question
+- `bullet_hit hit_flesh|hit_wall|hit_metal|hit_glass|hit_water` ❔❔
 
   # environmental sfx, here divided by sections for clarity
-  # :white_check_mark , except for deafness.
+  
+  # 👌 , except for deafness.
 - `environment thunder_near|thunder_far`
 - `environment daytime|nighttime`
 - `environment indoors|indoors_rain|underground`
@@ -136,21 +139,21 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 (Side note: Needs something like WEATHER_DRIZZLE_LIGHT for light drizzle, and ones for when the Japanese weathers pr gets merged.)
 
 - `environment alarm|church_bells|police_siren`
-- `environment deafness_shock|deafness_tone_start|deafness_tone_light|deafness_tone_medium|deafness_tone_heavy` :x
+- `environment deafness_shock|deafness_tone_start|deafness_tone_light|deafness_tone_medium|deafness_tone_heavy` 💀
 
   # misc environmental sounds
-- `footstep default|light|clumsy|bionic` :grey_question
+- `footstep default|light|clumsy|bionic` ❔❔
 (I think this is for bionics or less likely mutations. Assuming its for bionics, which i haven't tested yet cuz i dont use bionics much.)
 
-- `explosion default|small|huge` :x
+- `explosion default|small|huge` 💀
 
-  # ambient danger theme for seeing large numbers of zombies :x
+  # ambient danger theme for seeing large numbers of zombies 💀
 - `danger_low`
 - `danger_medium`
 - `danger_high`
 - `danger_extreme`
 
-  # chainsaw pack :x , except for weapon_theme which idk if it works. Probably not.
+  # chainsaw pack 💀 , except for weapon_theme which idk if it works. Probably not.
 - `chainsaw_cord     chainsaw_on`
 - `chainsaw_start    chainsaw_on`
 - `chainsaw_start    chainsaw_on`
@@ -163,58 +166,58 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `melee_hit_metal   chainsaw_on`
 - `weapon_theme      chainsaw`
 
-  # monster death and bite attacks :white_check_mark
+  # monster death and bite attacks 👌
 - `mon_death zombie_death|zombie_gibbed`
 - `mon_bite bite_miss|bite_hit`
 
 - `melee_attack monster_melee_hit`
 
-- `player_laugh laugh_f|laugh_m` :grey_question
+- `player_laugh laugh_f|laugh_m` ❔❔
 
   # player movement sfx
   **important:** `plmove <terrain>` has priority over default `plmove|walk_<what>` (excluding
   `|barefoot`) example: if `plmove|t_grass_long` is defined it will be played before default
   `plmove|walk_grass` default for all grassy terrains
 
-- `plmove <terrain>|<vehicle_part>` :white_check_mark
-- `plmove walk_grass|walk_dirt|walk_metal|walk_water|walk_tarmac|walk_barefoot|clear_obstacle` :grey_question
+- `plmove <terrain>|<vehicle_part>` 👌
+- `plmove walk_grass|walk_dirt|walk_metal|walk_water|walk_tarmac|walk_barefoot|clear_obstacle` ❔❔
 (`clear_obstacle` does not work despite it being used in this repository. I think the rest here gets priority over/overrides `clear_obstacle`. Would make sense if so.)
 
   # fatigue
-- `plmove fatigue_m_low|fatigue_m_med|fatigue_m_high|fatigue_f_low|fatigue_f_med|fatigue_f_high` :white_check_mark
+- `plmove fatigue_m_low|fatigue_m_med|fatigue_m_high|fatigue_f_low|fatigue_f_med|fatigue_f_high` 👌
 
   # player hurt sounds
-- `deal_damage hurt_f|hurt_m` :white_check_mark
+- `deal_damage hurt_f|hurt_m` 👌
 
   # player death and end-game sounds
-- `clean_up_at_end game_over|death_m|death_f` :white_check_mark
+- `clean_up_at_end game_over|death_m|death_f` 👌
 (might use `game_over` at some point? probably not but sounds interesting to mess with.)
 
   # various bionic sounds
-- `bionic elec_discharge|elec_crackle_low|elec_crackle_med|elec_crackle_high|elec_blast|elec_blast_muffled|acid_discharge|pixelated` :grey_question
-- `bionic bio_resonator|bio_hydraulics|` :grey_question
+- `bionic elec_discharge|elec_crackle_low|elec_crackle_med|elec_crackle_high|elec_blast|elec_blast_muffled|acid_discharge|pixelated` ❔❔
+- `bionic bio_resonator|bio_hydraulics|` ❔❔
 (I usually get bored and restart far before I reach getting to bionics so this is going into "idk probably works" for now.)
 
-  # various tools/traps being used (including some associated terrain/furniture) :grey_question
+  # various tools/traps being used (including some associated terrain/furniture) ❔❔
 - `tool alarm_clock|jackhammer|pickaxe|oxytorch|hacksaw|axe|shovel|crowbar|boltcutters|compactor|gaspump|noise_emitter|repair_kit|camera_shutter|handcuffs`
 - `tool geiger_low|geiger_medium|geiger_high`
 - `trap bubble_wrap|bear_trap|snare|teleport|dissector|glass_caltrop|glass`
 (I don't think `trap bubble_wrap` works. Vaugely remember using Kenan's version of Otopack and it not working on CBN but I think working on CDDA?)
 
-  # various activities :grey_question
+  # various activities ❔❔
 - `activity burrow`
 (utilized this in a recent update, idk if it works)
 
-  # musical instruments, `_bad` is used when you fail to play it well :white_check_mark
+  # musical instruments, `_bad` is used when you fail to play it well 👌
 - `musical_instrument <instrument>`
 - `musical_instrument_bad <instrument>`
 (never used instruments yet but I assume it still works)
 
-  # various shouts and screams :white_check_mark
+  # various shouts and screams 👌
 - `shout default|scream|scream_tortured|roar|squeak|shriek|wail|howl`
 (used `shout default` and it works, so i assume the rest is fine even though I think they're not utilized)
 
-  # speech, it is currently linked with either item or monster id, or is special `NPC` or `NPC_loud` :white_check_mark
+  # speech, it is currently linked with either item or monster id, or is special `NPC` or `NPC_loud` 👌
   # TODO: full vocalization of speech.json
 - `speech <item_id>` # examples: talking_doll, creepy_doll, Granade,
 - `speech <monster_id>` # examples: eyebot, minitank, mi-go, many robots
@@ -222,16 +225,16 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `speech robot` # special for robotic voice from a machine etc.
 (haven't dipped my toes into using all of these minus `speech <monster_id>` for ferals and such like them. could try to use this section more at some point but I assume it all works.)
 
-  # radio chatter :grey_question
+  # radio chatter ❔❔
 - `radio static|inaudible_chatter`
 
-  # humming sounds of various origin :grey_question
+  # humming sounds of various origin ❔❔
 - `humming electric|machinery`
 
-  # sounds related to (burning) fire :x
+  # sounds related to (burning) fire 💀
 - `fire ignition`
 
-  # vehicle sounds - engine and other parts in action :white_check_mark
+  # vehicle sounds - engine and other parts in action 👌
   
 (**note:** defaults are executed when specific option is not defined)
 - `engine_start <vehicle_part>` # note: specific engine start (id of any
@@ -275,20 +278,20 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `vehicle_close <vehicle part>`
 
   # miscellaneous sounds
-- `misc flashbang|flash|shockwave|earthquake|stairs_movement|stones_grinding|bomb_ticking|lit_fuse|cow_bell|bell|timber` :grey_question
+- `misc flashbang|flash|shockwave|earthquake|stairs_movement|stones_grinding|bomb_ticking|lit_fuse|cow_bell|bell|timber` ❔❔
 (`misc bomb_ticking` does work but others don't such as `stairs_movement` and I think `lit_fuse`. Why? But why tho?
 Haven't tested the rest yet.)
 
-- `misc rc_car_hits_obstacle|rc_car_drives` :white_check_mark
+- `misc rc_car_hits_obstacle|rc_car_drives` 👌
 (`misc rc_car_drives` doesn't work, needs to be fixed. Mentioned why while working on a pr but essentially
 assigning a sound using this resulted in it being played whenever the player moves while an RC car is turned on.
 Very weird coding magic happening here.)
 
-- `misc default|whistle|airhorn|horn_bicycle|servomotor` :grey_question
+- `misc default|whistle|airhorn|horn_bicycle|servomotor` ❔❔
 (Probs works but haven't tested anything else except `airhorn` with a clown start on CDDA.)
 
-- `misc beep|ding|` :grey_question
-- `misc rattling|spitting|coughing|heartbeat|puff|inhale|exhale|insect_wings|snake_hiss` :grey_question
-(mostly organic noises)
+- `misc beep|ding|` ❔❔
 
+- `misc rattling|spitting|coughing|heartbeat|puff|inhale|exhale|insect_wings|snake_hiss` ❔❔
+- (mostly organic noises)
 (Again haven't tested everything here but `coughing` works, ableit it occurs slightly too often but hey it works. `inhale` and `exhale` might be for going underwater and resurfacing?)
