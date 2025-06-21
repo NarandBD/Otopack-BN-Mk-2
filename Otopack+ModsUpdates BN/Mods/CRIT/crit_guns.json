@@ -306,5 +306,23 @@
 			"melee/chainsaw/saw_pull_3.ogg",
 			"melee/chainsaw/saw_pull_4.ogg"
 		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "flare_gmod",
+        "files" : [
+            "guns/flare/flare.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 35,
+        "variant" : "flare_gmod",
+        "files" : [
+            "guns/flare/flare.ogg"
+		]
 	}
 ]

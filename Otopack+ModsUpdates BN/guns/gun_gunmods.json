@@ -1,0 +1,83 @@
+[
+    {
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "",
+        "files" : [
+            "Mods/Cata++/bolt_rifle_elec_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "",
+        "files" : [
+            "Mods/Cata++/bolt_rifle_elec_reload.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 35,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "",
+        "files" : [
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "",
+        "files" : [
+            "Mods/Cata++/bolt_rifle_elec_reload.ogg"
+		]
+	}
+]
