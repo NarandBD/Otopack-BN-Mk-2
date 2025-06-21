@@ -76,7 +76,7 @@ at `data/sound/mypack/sfx.wav`.
 How stuff is formatted here is going to be slightly different from CBN's doc of this but not by much.
 I'm going to simply label all the sections with ids and their respective variants into three categories,
 - What I think does work/does indeed work. 👌 for what works, and ❔❔ for what I think works.
-and
+
 - What doesn't work. This will have a 💀
 
 ### My understanding for stuff with 👌 / ❔❔ :
@@ -128,9 +128,8 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 
 - `bullet_hit hit_flesh|hit_wall|hit_metal|hit_glass|hit_water` ❔❔
 
-  # environmental sfx, here divided by sections for clarity
-  
-  # 👌 , except for deafness.
+  # environmental sfx, here divided by sections for clarity 👌
+
 - `environment thunder_near|thunder_far`
 - `environment daytime|nighttime`
 - `environment indoors|indoors_rain|underground`
@@ -153,7 +152,7 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `danger_high`
 - `danger_extreme`
 
-  # chainsaw pack 💀 , except for weapon_theme which idk if it works. Probably not.
+  # chainsaw pack 💀
 - `chainsaw_cord     chainsaw_on`
 - `chainsaw_start    chainsaw_on`
 - `chainsaw_start    chainsaw_on`
@@ -164,7 +163,7 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `melee_swing       chainsaw_on`
 - `melee_hit_flesh   chainsaw_on`
 - `melee_hit_metal   chainsaw_on`
-- `weapon_theme      chainsaw`
+- `weapon_theme      chainsaw` ❔❔
 
   # monster death and bite attacks 👌
 - `mon_death zombie_death|zombie_gibbed`
@@ -202,7 +201,7 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `tool alarm_clock|jackhammer|pickaxe|oxytorch|hacksaw|axe|shovel|crowbar|boltcutters|compactor|gaspump|noise_emitter|repair_kit|camera_shutter|handcuffs`
 - `tool geiger_low|geiger_medium|geiger_high`
 - `trap bubble_wrap|bear_trap|snare|teleport|dissector|glass_caltrop|glass`
-(I don't think `trap bubble_wrap` works. Vaugely remember using Kenan's version of Otopack and it not working on CBN but I think working on CDDA?)
+(I don't think `trap bubble_wrap` works. Vaugely remember using Kenan's version of Otopack and when using bubble wrap traps it doesn't work on CBN but I think works on CDDA?)
 
   # various activities ❔❔
 - `activity burrow`
@@ -211,7 +210,7 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
   # musical instruments, `_bad` is used when you fail to play it well 👌
 - `musical_instrument <instrument>`
 - `musical_instrument_bad <instrument>`
-(never used instruments yet but I assume it still works)
+- (never used instruments yet but I assume all of this still works)
 
   # various shouts and screams 👌
 - `shout default|scream|scream_tortured|roar|squeak|shriek|wail|howl`
@@ -223,7 +222,8 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 - `speech <monster_id>` # examples: eyebot, minitank, mi-go, many robots
 - `speech NPC_m|NPC_f|NPC_m_loud|NPC_f_loud` # special for NPCs
 - `speech robot` # special for robotic voice from a machine etc.
-(haven't dipped my toes into using all of these minus `speech <monster_id>` for ferals and such like them. could try to use this section more at some point but I assume it all works.)
+
+- (haven't dipped my toes into using all of these minus `speech <monster_id>` for ferals and such like them. could try to use this section more at some point but I assume it all works.)
 
   # radio chatter ❔❔
 - `radio static|inaudible_chatter`
@@ -279,8 +279,7 @@ placeholder for any valid furniture ID (as in the furniture definition JSON).
 
   # miscellaneous sounds
 - `misc flashbang|flash|shockwave|earthquake|stairs_movement|stones_grinding|bomb_ticking|lit_fuse|cow_bell|bell|timber` ❔❔
-(`misc bomb_ticking` does work but others don't such as `stairs_movement` and I think `lit_fuse`. Why? But why tho?
-Haven't tested the rest yet.)
+(`misc bomb_ticking` does work but others don't such as `stairs_movement` and I think `lit_fuse`. Why? Ask the lord above because fuck if i know. Haven't tested the rest yet.)
 
 - `misc rc_car_hits_obstacle|rc_car_drives` 👌
 (`misc rc_car_drives` doesn't work, needs to be fixed. Mentioned why while working on a pr but essentially
@@ -288,10 +287,10 @@ assigning a sound using this resulted in it being played whenever the player mov
 Very weird coding magic happening here.)
 
 - `misc default|whistle|airhorn|horn_bicycle|servomotor` ❔❔
-(Probs works but haven't tested anything else except `airhorn` with a clown start on CDDA.)
+(Probs works but haven't tested anything else except `airhorn` with a clown start on CDDA (it's been a while but I think it still works?))
 
 - `misc beep|ding|` ❔❔
 
-- `misc rattling|spitting|coughing|heartbeat|puff|inhale|exhale|insect_wings|snake_hiss` ❔❔
-- (mostly organic noises)
-(Again haven't tested everything here but `coughing` works, ableit it occurs slightly too often but hey it works. `inhale` and `exhale` might be for going underwater and resurfacing?)
+- `misc rattling|spitting|coughing|heartbeat|puff|inhale|exhale|insect_wings|snake_hiss` ❔❔ (mostly organic noises)
+
+-(Again haven't tested everything in this section but `coughing` works, ableit it occurs slightly too often but hey it works. `inhale` and `exhale` might be for going underwater and resurfacing?)
