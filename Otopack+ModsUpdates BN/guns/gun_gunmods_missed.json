@@ -1,0 +1,176 @@
+[
+    {
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "pipe_launcher40mm",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg",
+			"guns/40mm/40mm_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "pipe_launcher40mm",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg",
+			"guns/40mm/40mm_5.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m320_mod_mod",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m320_mod_mod",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "masterkey_mod",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "masterkey_mod",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m203_mod",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m203_mod",
+        "files" : [
+            "guns/40mm/40mm_1.ogg",
+			"guns/40mm/40mm_2.ogg",
+			"guns/40mm/40mm_3.ogg",
+			"guns/40mm/40mm_4.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 65,
+        "variant" : "gun_crossbow_mod",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "gun_crossbow_mod",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "u_shotgun_mod",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "u_shotgun_mod",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "rm121aux_mod",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "rm121aux_mod",
+        "files" : [
+            "guns/20x66mm/20x66mm_1.ogg",
+			"guns/20x66mm/20x66mm_2.ogg",
+			"guns/20x66mm/20x66mm_3.ogg",
+			"guns/20x66mm/20x66mm_4.ogg"
+		]
+	}
+]
