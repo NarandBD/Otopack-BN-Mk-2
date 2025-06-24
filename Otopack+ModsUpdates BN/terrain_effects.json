@@ -1335,11 +1335,15 @@
         "variant" : "t_utility_light",
         "volume" : 50,
         "files" : [
-            "terrain/other/smash_woodglass_1.ogg",
-			"terrain/other/smash_woodglass_2.ogg",
-			"terrain/other/smash_woodglass_3.ogg",
-			"terrain/other/smash_woodglass_4.ogg",
-			"terrain/other/smash_woodglass_5.ogg"
+            "terrain/other/smash_metglass_1.ogg",
+			"terrain/other/smash_metglass_2.ogg",
+			"terrain/other/smash_metglass_3.ogg",
+			"terrain/other/smash_metglass_4.ogg",
+			"terrain/other/smash_metglass_6.ogg",
+			"terrain/other/smash_metglass_7.ogg",
+			"terrain/other/smash_metglass_8.ogg",
+			"terrain/other/smash_metglass_9.ogg",
+			"terrain/other/smash_metglass_10.ogg"
         ]
     },
 	{
