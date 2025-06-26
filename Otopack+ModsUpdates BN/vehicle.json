@@ -24,7 +24,7 @@
     "type": "sound_effect",
     "id": "engine_start",
     "variant": "electric",
-    "volume": 60,
+    "volume": 65,
     "files": [ "vehicle/engine/engine_start_electric_1.ogg" ]
   },
   {
@@ -52,7 +52,7 @@
     "type": "sound_effect",
     "id": "engine_stop",
     "variant": "electric",
-    "volume": 60,
+    "volume": 65,
     "files": [ "vehicle/engine/engine_stop_electric_1.ogg" ]
   },
   {
@@ -101,7 +101,7 @@
     "type": "sound_effect",
     "id": "engine_working_external",
     "variant": "electric",
-    "volume": 60,
+    "volume": 65,
     "files": [ "vehicle/engine/engine_working_external_electric_1.ogg" ]
   },
   {
@@ -129,7 +129,7 @@
     "type": "sound_effect",
     "id": "engine_working_internal",
     "variant": "electric",
-    "volume": 65,
+    "volume": 70,
     "files": [ "vehicle/engine/engine_working_internal_electric_1.ogg" ]
   },
   {
