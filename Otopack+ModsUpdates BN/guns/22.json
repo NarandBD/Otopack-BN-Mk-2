@@ -159,45 +159,6 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
-        "variant" : "rm360_carbine",
-        "files" : [
-            "guns/22/22_1.ogg",
-			"guns/22/22_2.ogg",
-			"guns/22/22_3.ogg",
-			"guns/22/22_4.ogg",
-			"guns/22/22_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "rm360_carbine",
-        "files" : [
-            "guns/22/22_1.ogg",
-			"guns/22/22_2.ogg",
-			"guns/22/22_3.ogg",
-			"guns/22/22_4.ogg",
-			"guns/22/22_5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 75,
-        "variant" : "rm360_carbine",
-        "files" : [
-            "guns/reload/rifle/rifle_1.ogg",
-			"guns/reload/rifle/rifle_2.ogg",
-			"guns/reload/rifle/rifle_3.ogg",
-			"guns/reload/rifle/rifle_4.ogg",
-			"guns/reload/rifle/rifle_5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
         "variant" : "ruger_1022",
         "files" : [
             "guns/22/22_1.ogg",
