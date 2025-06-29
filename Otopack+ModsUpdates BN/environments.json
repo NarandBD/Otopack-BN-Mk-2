@@ -98,13 +98,6 @@
   {
     "type": "sound_effect",
     "id": "environment",
-    "variant": "WEATHER_PORTAL_STORM",
-    "volume": 100,
-    "files": [ "env/ambience_and_weather/portal_storm.ogg" ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "environment",
     "variant": "underground",
     "volume": 90,
     "files": [ "env/ambience_and_weather/underground.ogg" ]

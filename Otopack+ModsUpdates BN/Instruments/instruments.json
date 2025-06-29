@@ -93,6 +93,13 @@
   {
     "type": "sound_effect",
     "id": "musical_instrument",
+    "variant": "wood_flute",
+    "volume": 25,
+    "files": [ "Instruments/wooden_flute.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "musical_instrument",
     "variant": "saxophone",
     "volume": 25,
     "files": [ "Instruments/534584__davejf__sax-003.ogg" ]

@@ -12,7 +12,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 75,
+        "volume" : 70,
         "variant" : "raging_bull",
         "files" : [
             "guns/454/454.ogg"
@@ -43,7 +43,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 75,
+        "volume" : 70,
         "variant" : "raging_judge",
         "files" : [
             "guns/454/454.ogg"

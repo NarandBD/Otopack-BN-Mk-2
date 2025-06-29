@@ -562,43 +562,6 @@
         ]
     },
     {
-        "type": "sound_effect",  
-        "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "abzats",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",  
-        "id" : "fire_gun_distant",
-        "volume" : 40,
-        "variant" : "abzats",
-        "files" : [
-            "guns/00shot/00shot1.ogg",
-			"guns/00shot/00shot2.ogg",
-			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 75,
-        "variant" : "abzats",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
-    },
-    {
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,

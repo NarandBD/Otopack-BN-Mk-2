@@ -28,32 +28,6 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_armored",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_bruiser",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_cop",
     "volume": 50,
     "files": [
@@ -197,71 +171,6 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_rust",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_shell",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_plated",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_urchin",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_hammer_hands",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_scientist",
     "volume": 50,
     "files": [
@@ -288,59 +197,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_medical",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_medical_brute",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_medical_regenerating",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_biter",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_bruiser",
     "volume": 50,
     "files": [
       "speech/zombie/speech_zombie_groan.ogg",
@@ -431,59 +288,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_regenerating",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_regenerating_hunter",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_regenerating_final",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_skull",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_swimmer_base",
     "volume": 50,
     "files": [
       "speech/zombie/speech_zombie_groan.ogg",
@@ -548,72 +353,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_reenactor",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_fursuit",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_prisoner",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_prisoner_brute",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_prisoner_fat",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_prisoner_tough",
     "volume": 50,
     "files": [
       "speech/zombie/speech_zombie_groan.ogg",
@@ -639,19 +379,6 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_kevlar_0",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
     "variant": "mon_zombie_kevlar_1",
     "volume": 50,
     "files": [
@@ -665,59 +392,20 @@
   {
     "type": "sound_effect",
     "id": "speech",
+    "variant": "mon_zombie_kevlar_2",
+    "volume": 50,
+    "files": [
+      "speech/zombie/speech_zombie_groan.ogg",
+      "speech/zombie/speech_zombie_groan_1.ogg",
+      "speech/zombie/speech_zombie_groan_2.ogg",
+      "speech/zombie/speech_zombie_groan_3.ogg",
+      "speech/zombie/speech_zombie_groan_4.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
     "variant": "mon_zombie_military_pilot",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_milbase_personnel",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_sailor",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_officer",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_marine",
     "volume": 50,
     "files": [
       "speech/zombie/speech_zombie_groan.ogg",
@@ -756,33 +444,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_zombie_survivor_no_weakpoints",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_paramilitary",
-    "volume": 50,
-    "files": [
-      "speech/zombie/speech_zombie_groan.ogg",
-      "speech/zombie/speech_zombie_groan_1.ogg",
-      "speech/zombie/speech_zombie_groan_2.ogg",
-      "speech/zombie/speech_zombie_groan_3.ogg",
-      "speech/zombie/speech_zombie_groan_4.ogg"
-    ]
-  },
-  {
-    "type": "sound_effect",
-    "id": "speech",
-    "variant": "mon_zombie_lashing",
+    "variant": "mon_zombie_survivor_elite",
     "volume": 50,
     "files": [
       "speech/zombie/speech_zombie_groan.ogg",
