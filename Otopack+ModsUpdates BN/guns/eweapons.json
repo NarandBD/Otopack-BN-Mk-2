@@ -1,24 +1,4 @@
 [
-    {
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
-        "variant" : "unbio_chain_lightning",
-        "files" : [
-            "guns/eweapons/bio_lightning_1.ogg",
-			"guns/eweapons/bio_lightning_2.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 75,
-        "variant" : "unbio_chain_lightning",
-        "files" : [
-            "guns/eweapons/bio_lightning_1.ogg",
-			"guns/eweapons/bio_lightning_2.ogg"
-        ]
-    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
