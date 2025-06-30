@@ -1334,16 +1334,6 @@
         ]
     },
 	{
-        "type": "sound_effect",
-        "id" : "speech",
-        "variant" : "mon_zombie_horse",
-        "volume" : 60,
-        "files" : [
-			"monster/horse_neighing_1.ogg",
-			"monster/horse_neighing_2.ogg"
-        ]
-    },
-	{
 		"type": "sound_effect",
         "id" : "misc",
         "variant" : "rc_car_hits_obstacle",
