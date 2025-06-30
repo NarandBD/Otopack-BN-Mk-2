@@ -470,7 +470,7 @@
         "type": "sound_effect",
         "id" : "misc",
         "variant" : "horn_bicycle",
-        "volume" : 80,
+        "volume" : 105,
         "files" : [
             "effects/misc/horn_bicycle.ogg"
         ]
