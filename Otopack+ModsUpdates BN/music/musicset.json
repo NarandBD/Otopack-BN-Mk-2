@@ -254,7 +254,11 @@
 				{
                     "file": "music/CO.AG_AndAllTheFunBeginsWithUs.ogg",
                     "volume": 70
-                }
+                },
+				{
+                    "file": "music/Dreaming with Great Old One (Arkham Radio Podcast).ogg",
+                    "volume": 20
+				}
             ]
         }
     ]

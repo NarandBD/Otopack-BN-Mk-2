@@ -227,20 +227,24 @@
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_f",
-        "volume" : 35,
+        "volume" : 30,
         "files" : [
             "player/hurt_f/hurt_1.ogg",
-            "player/hurt_f/hurt_4.ogg"
+			"player/hurt_f/hurt_2.ogg",
+			"player/hurt_f/hurt_3.ogg",
+			"player/hurt_f/hurt_4.ogg"
         ]
     },
     {
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_m",
-        "volume" : 35,
+        "volume" : 30,
         "files" : [
-			"player/hurt_m/hurt_5.ogg",
-            "player/hurt_m/hurt_6.ogg"
+			"player/hurt_m/hurt_1.ogg",
+			"player/hurt_m/hurt_2.ogg",
+			"player/hurt_m/hurt_3.ogg",
+			"player/hurt_m/hurt_4.ogg"
         ]
     },
     {
