@@ -1,8 +1,7 @@
 ## This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, I'm busy irl so don't expect frequency.
-~~~
+
+Contributions from others are welcome, I'll most likely release weekly or earlier releases containing all changes/additons.
 The bar for sound quality isn't that high for me personally, as long as it sounds like how it should w/o copyright issues then it's fine.
-~~~
-Suggestions are welcome, I'll most likely release weekly or earlier releases containing all changes/additons.
 
 _**If you want to get the latest updates/version, download the zip from the green button that says "<> code" above. Unzip the zip file, then drag and drop JUST Otopack+ModsUpdates BN into your sound folder. Make sure you have it set under settings.**_
 
@@ -13,4 +12,4 @@ Also credits to Fris0uman for the feral screams and zombie moaning folders and s
 
 :D->-<|:
 
-I do not own any of the sounds/music used, I am merely adding to and modifying this soundpack alongside others.
+I do not own any of the sounds/music used.
