@@ -227,7 +227,7 @@
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_f",
-        "volume" : 30,
+        "volume" : 35,
         "files" : [
             "player/hurt_f/hurt_1.ogg",
 			"player/hurt_f/hurt_2.ogg",
@@ -239,7 +239,7 @@
         "type": "sound_effect",
         "id" : "deal_damage",
         "variant" : "hurt_m",
-        "volume" : 30,
+        "volume" : 35,
         "files" : [
 			"player/hurt_m/hurt_1.ogg",
 			"player/hurt_m/hurt_2.ogg",
