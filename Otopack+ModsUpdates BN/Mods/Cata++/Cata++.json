@@ -585,7 +585,7 @@
         "volume" : 50,
         "variant" : "sur_pnu_lmg",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+            "guns/reload/others/hellsing.ogg"
         ]
     },
     {
@@ -1077,10 +1077,10 @@
         "variant" : "surv_full_12",
         "files" : [
             "guns/reload/shotgun/autoreload_1.ogg",
-			"guns/reload/shotgun/autoreload_1.ogg",
-			"guns/reload/shotgun/autoreload_1.ogg",
-			"guns/reload/shotgun/autoreload_1.ogg",
-			"guns/reload/shotgun/autoreload_1.ogg"
+			"guns/reload/shotgun/autoreload_2.ogg",
+			"guns/reload/shotgun/autoreload_3.ogg",
+			"guns/reload/shotgun/autoreload_4.ogg",
+			"guns/reload/shotgun/autoreload_5.ogg"
         ]
     },
     {
@@ -1130,7 +1130,6 @@
 			"guns/reload/mg/mgk_3.ogg",
 			"guns/reload/mg/mgk_4.ogg",
 			"guns/reload/mg/mgk_5.ogg"
-			
         ]
     },
     {
@@ -1170,7 +1169,6 @@
 			"guns/reload/mg/mgk_3.ogg",
 			"guns/reload/mg/mgk_4.ogg",
 			"guns/reload/mg/mgk_5.ogg"
-			
         ]
     },
     {
@@ -1220,7 +1218,6 @@
 			"guns/reload/mg/mgk_3.ogg",
 			"guns/reload/mg/mgk_4.ogg",
 			"guns/reload/mg/mgk_5.ogg"
-			
         ]
     },
 	{
@@ -1271,7 +1268,9 @@
         "files" : [
             "guns/archery/archery_1.ogg",
 			"guns/archery/archery_2.ogg",
-			"guns/archery/archery_3.ogg"
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
         ]
     },
 	{
@@ -1282,7 +1281,9 @@
         "files" : [
             "guns/archery/archery_1.ogg",
 			"guns/archery/archery_2.ogg",
-			"guns/archery/archery_3.ogg"
+			"guns/archery/archery_3.ogg",
+			"guns/archery/archery_4.ogg",
+			"guns/archery/archery_5.ogg"
         ]
     },
     {
@@ -1291,11 +1292,11 @@
         "volume" : 50,
         "variant" : "surv_sniper",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
-			"guns/flintlock/flintlock_5.ogg"
+			"guns/flintlock/flintlock_5.ogg",
+			"guns/flintlock/flintlock_6.ogg"
         ]
     },
 	{
@@ -1304,11 +1305,11 @@
         "volume" : 20,
         "variant" : "surv_sniper",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
-			"guns/flintlock/flintlock_5.ogg"
+			"guns/flintlock/flintlock_5.ogg",
+			"guns/flintlock/flintlock_6.ogg"
         ]
     },
 	{
