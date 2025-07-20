@@ -256,14 +256,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "bio_rift_focus_projector_gun",
-    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg" ]
+    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg", "guns/eweapons/bio_laser_gun_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "bio_rift_focus_projector_gun",
-    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg" ]
+    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg", "guns/eweapons/bio_laser_gun_3.ogg" ]
   },
   {
     "type": "sound_effect",
