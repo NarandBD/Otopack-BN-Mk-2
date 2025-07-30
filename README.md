@@ -13,3 +13,10 @@ Also credits to Fris0uman for the feral screams and zombie moaning folders and s
 :D->-<|:
 
 I do not own any of the sounds/music used.
+
+### Recommended Volume Settings:
+Music : 65
+
+Sound effects : 100
+
+Ambient sounds : 100
