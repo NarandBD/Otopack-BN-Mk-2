@@ -11104,7 +11104,7 @@
 			"terrain/metal/smash_metal_9.ogg",
 			"terrain/metal/smash_metal_10.ogg"
         ]
-    }
+    },
 	{
         "type": "sound_effect",
         "id" : "smash_fail",
