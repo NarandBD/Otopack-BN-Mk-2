@@ -44,11 +44,8 @@
         "volume" : 50,
         "variant" : "bizon",
         "files" : [
-            "guns/9x18/9x18_1.ogg",
-			"guns/9x18/9x18_2.ogg",
-			"guns/9x18/9x18_3.ogg",
-			"guns/9x18/9x18_4.ogg",
-			"guns/9x18/9x18_5.ogg"
+            "guns/9x18/smg/shot.ogg",
+			"guns/9x18/smg/shot_alt.ogg"
         ]
     },
 	{
@@ -57,11 +54,8 @@
         "volume" : 20,
         "variant" : "bizon",
         "files" : [
-            "guns/9x18/9x18_1.ogg",
-			"guns/9x18/9x18_2.ogg",
-			"guns/9x18/9x18_3.ogg",
-			"guns/9x18/9x18_4.ogg",
-			"guns/9x18/9x18_5.ogg"
+            "guns/9x18/smg/shot.ogg",
+			"guns/9x18/smg/shot_alt.ogg"
         ]
     },
 	{
