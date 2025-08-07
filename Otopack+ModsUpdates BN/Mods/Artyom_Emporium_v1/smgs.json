@@ -114,7 +114,7 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
-        "variant" : "bm32/38",
+        "variant" : "bm32_38",
         "files" : [
             "guns/9mm/9mm_1.ogg",
 			"guns/9mm/9mm_2.ogg",
@@ -127,7 +127,7 @@
         "type": "sound_effect",
         "id" : "fire_gun_distant",
         "volume" : 60,
-        "variant" : "bm32/38",
+        "variant" : "bm32_38",
         "files" : [
             "guns/9mm/9mm_1.ogg",
 			"guns/9mm/9mm_2.ogg",
@@ -140,7 +140,7 @@
         "type": "sound_effect",
         "id" : "reload",
         "volume" : 70,
-        "variant" : "bm32/38",
+        "variant" : "bm32_38",
         "files" : [
             "guns/reload/smg/smg_1.ogg",
 			"guns/reload/smg/smg_2.ogg",
