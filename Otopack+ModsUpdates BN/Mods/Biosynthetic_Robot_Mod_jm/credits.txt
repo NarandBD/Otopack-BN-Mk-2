@@ -1,0 +1,1 @@
+xedra_eweapon_reload.ogg -> Reuse of batterygun_reload.ogg from Cata++ folder, mixed with vgstation-coders / vgstation13 on github, vgstation13/sound/weapons
