@@ -25,7 +25,7 @@
         "volume" : 50,
         "variant" : "vortexrifle",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+            "guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -67,9 +67,9 @@
         "volume" : 50,
         "variant" : "vortexbolter",
         "files" : [
-            "guns/crossbows/hellsing_1.ogg",
-			"guns/crossbows/hellsing_2.ogg",
-			"guns/crossbows/hellsing_3.ogg"
+            "guns/others/hellsing_1.ogg",
+			"guns/others/hellsing_2.ogg",
+			"guns/others/hellsing_3.ogg"
         ]
     },
 	{
@@ -78,9 +78,9 @@
         "volume" : 20,
         "variant" : "vortexbolter",
         "files" : [
-            "guns/crossbows/hellsing_1.ogg",
-			"guns/crossbows/hellsing_2.ogg",
-			"guns/crossbows/hellsing_3.ogg"
+            "guns/others/hellsing_1.ogg",
+			"guns/others/hellsing_2.ogg",
+			"guns/others/hellsing_3.ogg"
         ]
     },
 	{
@@ -89,7 +89,7 @@
         "volume" : 50,
         "variant" : "vortexbolter",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+            "guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -98,8 +98,8 @@
         "volume" : 50,
         "variant" : "vortexaccelerator",
         "files" : [
-           "guns/others/tihar_1.ogg",
-		   "guns/others/tihar_2.ogg"
+			"guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
         ]
     },
 	{
@@ -108,8 +108,8 @@
         "volume" : 20,
         "variant" : "vortexaccelerator",
         "files" : [
-           "guns/others/tihar_1.ogg",
-		   "guns/others/tihar_2.ogg"
+			"guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
         ]
     },
 	{
@@ -118,7 +118,7 @@
         "volume" : 50,
         "variant" : "vortexaccelerator",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+			"guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -127,7 +127,7 @@
         "volume" : 50,
         "variant" : "diamondnova",
         "files" : [
-            "guns/eweapons/heavy_rail_rifle_1.ogg",
+			"guns/eweapons/heavy_rail_rifle_1.ogg",
 			"guns/eweapons/heavy_rail_rifle_2.ogg",
 			"guns/eweapons/heavy_rail_rifle_3.ogg"
         ]
@@ -149,7 +149,7 @@
         "volume" : 50,
         "variant" : "diamondnova",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+			"guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -180,7 +180,7 @@
         "volume" : 50,
         "variant" : "diamondlance",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+            "guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -200,7 +200,7 @@
         "volume" : 20,
         "variant" : "dprism",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -223,7 +223,7 @@
         "volume" : 20,
         "variant" : "dobelisk",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
