@@ -120,6 +120,13 @@
   },
   {
     "type": "sound_effect",
+    "id": "engine_working_external",
+    "variant": "engine_v8",
+    "volume": 50,
+    "files": [ "vehicle/engine/engine_working_external_v8.ogg" ]
+  },
+  {
+    "type": "sound_effect",
     "id": "engine_working_internal",
     "variant": "engine_vtwin",
     "volume": 50,
