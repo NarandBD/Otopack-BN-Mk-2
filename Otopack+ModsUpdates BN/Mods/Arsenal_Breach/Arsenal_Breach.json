@@ -77,5 +77,18 @@
 			"Mods/Arsenal_Breach/laser_scatter_4.ogg",
 			"Mods/Arsenal_Breach/laser_scatter_5.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "ABlaser_shotgun",
+        "files" : [
+            "Mods/Arsenal_Breach/laser_scatter_1.ogg",
+			"Mods/Arsenal_Breach/laser_scatter_2.ogg",
+			"Mods/Arsenal_Breach/laser_scatter_3.ogg",
+			"Mods/Arsenal_Breach/laser_scatter_4.ogg",
+			"Mods/Arsenal_Breach/laser_scatter_5.ogg"
+        ]
     }
 ]

@@ -21,6 +21,15 @@
 			"guns/eweapons/laser_rifle_3.ogg"
         ]
     },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "gkb_xedra_ar",
+        "files" : [
+            "Mods/Biosynthetic_Robot_Mod_jm/xedra_eweapon_reload.ogg"
+        ]
+    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
@@ -33,10 +42,19 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 55,
         "variant" : "gkb_xedra_magnum",
         "files" : [
             "guns/eweapons/laser_cannon.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "gkb_xedra_magnum",
+        "files" : [
+            "Mods/Biosynthetic_Robot_Mod_jm/xedra_eweapon_reload.ogg"
         ]
     }
 ]

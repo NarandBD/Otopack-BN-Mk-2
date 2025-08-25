@@ -3,45 +3,6 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
-        "variant" : "akm",
-        "files" : [
-            "guns/762/762_1.ogg",
-			"guns/762/762_2.ogg",
-			"guns/762/762_3.ogg",
-			"guns/762/762_4.ogg",
-			"guns/762/762_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 60,
-        "variant" : "akm",
-        "files" : [
-            "guns/762/762_1.ogg",
-			"guns/762/762_2.ogg",
-			"guns/762/762_3.ogg",
-			"guns/762/762_4.ogg",
-			"guns/762/762_5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 70,
-        "variant" : "akm",
-        "files" : [
-            "guns/reload/ak/ak_reload_1.ogg",
-			"guns/reload/ak/ak_reload_2.ogg",
-			"guns/reload/ak/ak_reload_3.ogg",
-			"guns/reload/ak/ak_reload_4.ogg",
-			"guns/reload/ak/ak_reload_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 75,
         "variant" : "ak101",
         "files" : [
             "guns/223/223_1.ogg",
@@ -2307,8 +2268,7 @@
         "volume" : 75,
         "variant" : "needle_rifle",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
-			"guns/flintlock/flintlock_2.ogg",
+            "guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
 			"guns/flintlock/flintlock_5.ogg"
@@ -2320,8 +2280,7 @@
         "volume" : 40,
         "variant" : "needle_rifle",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
-			"guns/flintlock/flintlock_2.ogg",
+            "guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
 			"guns/flintlock/flintlock_5.ogg"
