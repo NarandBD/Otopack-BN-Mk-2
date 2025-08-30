@@ -928,7 +928,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -939,7 +940,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -962,8 +964,8 @@
         "variant" : "drehen_700",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
 	{
@@ -973,8 +975,8 @@
         "variant" : "drehen_700",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
     {
@@ -1228,7 +1230,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1241,7 +1242,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1263,7 +1263,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1276,7 +1275,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1298,7 +1296,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1311,7 +1308,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1333,7 +1329,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1346,7 +1341,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -1366,7 +1360,6 @@
         "volume" : 75,
         "variant" : "rifle_flintlock_tactical",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1379,7 +1372,6 @@
         "volume" : 40,
         "variant" : "rifle_flintlock_tactical",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1401,7 +1393,6 @@
         "volume" : 75,
         "variant" : "rifle_flintlock_copper",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1414,7 +1405,6 @@
         "volume" : 40,
         "variant" : "rifle_flintlock_copper",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1436,7 +1426,6 @@
         "volume" : 75,
         "variant" : "rifle_flintlock_silver",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1449,7 +1438,6 @@
         "volume" : 40,
         "variant" : "rifle_flintlock_silver",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1471,7 +1459,6 @@
         "volume" : 75,
         "variant" : "rifle_flintlock_gold",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1484,7 +1471,6 @@
         "volume" : 40,
         "variant" : "rifle_flintlock_gold",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1506,7 +1492,6 @@
         "volume" : 75,
         "variant" : "rifle_flintlock_platinum",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1519,7 +1504,6 @@
         "volume" : 40,
         "variant" : "rifle_flintlock_platinum",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -1737,8 +1721,8 @@
         "variant" : "shoggoth_gun",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
 	{
@@ -1748,8 +1732,8 @@
         "variant" : "shoggoth_gun",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
     {
@@ -1772,8 +1756,8 @@
         "variant" : "shoggoth_gun_scom",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
 	{
@@ -1783,8 +1767,8 @@
         "variant" : "shoggoth_gun_scom",
         "files" : [
             "guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg",
-			"guns/700nx/700nx_1.ogg"
+			"guns/700nx/700nx_2.ogg",
+			"guns/700nx/700nx_3.ogg"
         ]
     },
     {
@@ -1808,7 +1792,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -1819,7 +1804,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
