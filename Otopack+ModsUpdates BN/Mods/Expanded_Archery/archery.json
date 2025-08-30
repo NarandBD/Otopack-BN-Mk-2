@@ -24,5 +24,17 @@
 			"guns/archery/archery_4.ogg",
 			"guns/archery/archery_5.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "hybridbow",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+			"guns/archery/takearrow_2.ogg",
+			"guns/archery/takearrow_3.ogg",
+			"guns/archery/takearrow_4.ogg"
+        ]
     }
 ]
