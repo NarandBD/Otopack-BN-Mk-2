@@ -1,4 +1,5 @@
-[ {
+[ 
+	{
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
@@ -51,7 +52,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -62,7 +64,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -195,7 +198,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -206,7 +210,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -230,7 +235,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -241,7 +247,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -349,13 +356,23 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "130",
+        "files" : [
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
         "variant" : "broadsider",
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -366,7 +383,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
     {
@@ -425,7 +443,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -436,7 +455,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -460,7 +480,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -471,7 +492,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
     {
@@ -493,7 +515,7 @@
         "volume" : 75,
         "variant" : "tank_gun_dual",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
 	{
@@ -502,7 +524,7 @@
         "volume" : 60,
         "variant" : "tank_gun_dual",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
     {
@@ -713,7 +735,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -724,7 +747,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{

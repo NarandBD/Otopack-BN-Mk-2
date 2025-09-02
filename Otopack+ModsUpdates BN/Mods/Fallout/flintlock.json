@@ -1,4 +1,5 @@
-[ {
+[ 
+	{
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
@@ -6,7 +7,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -19,7 +19,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -41,7 +40,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -54,7 +52,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -76,7 +73,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -89,7 +85,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -111,7 +106,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -124,7 +118,6 @@
         "files" : [
             "guns/flintlock/pistol_1.ogg",
 			"guns/flintlock/pistol_2.ogg",
-			"guns/flintlock/pistol_3.ogg",
 			"guns/flintlock/pistol_4.ogg",
 			"guns/flintlock/pistol_5.ogg"
         ]
@@ -144,7 +137,6 @@
         "volume" : 75,
         "variant" : "rifle_shield",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -157,7 +149,6 @@
         "volume" : 40,
         "variant" : "rifle_shield",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",

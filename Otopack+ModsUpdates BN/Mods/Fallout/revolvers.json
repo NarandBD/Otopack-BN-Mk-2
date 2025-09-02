@@ -1,4 +1,5 @@
-[ {
+[ 
+	{
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,

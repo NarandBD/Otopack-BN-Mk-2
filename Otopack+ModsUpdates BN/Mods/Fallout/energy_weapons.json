@@ -27,7 +27,7 @@
         "volume" : 50,
         "variant" : "wattz_1000",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -58,7 +58,7 @@
         "volume" : 50,
         "variant" : "wattz_1000_magneto",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -111,7 +111,7 @@
         "volume" : 50,
         "variant" : "laser_pistol_aep",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -142,7 +142,7 @@
         "volume" : 50,
         "variant" : "laser_pistol_aep_pewpew",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -169,6 +169,15 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "wattz_2000",
+        "files" : [
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
         "variant" : "aer9",
@@ -195,7 +204,7 @@
         "volume" : 50,
         "variant" : "aer9",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -226,7 +235,7 @@
         "volume" : 50,
         "variant" : "aer9_tribeam",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -257,7 +266,7 @@
         "volume" : 50,
         "variant" : "aer14_prototype",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -284,6 +293,15 @@
 			"guns/eweapons/gatling_mech_laser_3.ogg",
 			"guns/eweapons/gatling_mech_laser_4.ogg",
 			"guns/eweapons/gatling_mech_laser_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "laser_rcw",
+        "files" : [
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -567,7 +585,7 @@
         "volume" : 50,
         "variant" : "institute_laser_pistol",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
@@ -598,7 +616,7 @@
         "volume" : 50,
         "variant" : "institute_laser_rifle",
         "files" : [
-            "Mods/Fallout-CDDA/batterygun_reload.ogg"
+            "Mods/Fallout/fallout_batterygun_reload.ogg"
         ]
     },
 	{
