@@ -55,7 +55,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 60,
         "variant" : "nmteslacoil",
         "files" : [
             "bionics/elec_crackle_med_1.ogg",
@@ -67,7 +67,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 40,
         "variant" : "nmteslacoil",
         "files" : [
             "bionics/elec_crackle_med_1.ogg",
@@ -79,7 +79,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 70,
+        "volume" : 60,
         "variant" : "nmteslacoilmk2",
         "files" : [
             "bionics/elec_crackle_med_1.ogg",
@@ -91,7 +91,7 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 70,
+        "volume" : 40,
         "variant" : "nmteslacoilmk2",
         "files" : [
             "bionics/elec_crackle_med_1.ogg",
