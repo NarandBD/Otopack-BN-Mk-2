@@ -1242,11 +1242,11 @@
         "variant" : "henry",
         "volume" : 50,
         "files" : [
-			"Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+			"Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
 	{
@@ -1255,11 +1255,11 @@
         "variant" : "henry",
         "volume" : 50,
         "files" : [
-			"Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+			"Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
     {
@@ -1398,11 +1398,11 @@
         "variant" : "marlin_336",
         "volume" : 50,
         "files" : [
-            "Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+            "Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
 	{
@@ -1411,11 +1411,11 @@
         "variant" : "marlin_336",
         "volume" : 50,
         "files" : [
-            "Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+            "Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
     {
@@ -1437,11 +1437,11 @@
         "variant" : "464spx",
         "volume" : 50,
         "files" : [
-            "Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+            "Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
 	{
@@ -1450,11 +1450,11 @@
         "variant" : "464spx",
         "volume" : 50,
         "files" : [
-            "Mods/Modern Weapons Pack Expanded/3030_1.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_2.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_3.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_4.ogg",
-			"Mods/Modern Weapons Pack Expanded/3030_5.ogg"
+            "Mods/Modern_weapons_pack_expanded/3030_1.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_2.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_3.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_4.ogg",
+			"Mods/Modern_weapons_pack_expanded/3030_5.ogg"
         ]
     },
     {
@@ -1817,7 +1817,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
 	{
@@ -1829,7 +1830,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
     {
@@ -1853,7 +1855,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
 	{
@@ -1865,7 +1868,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
     {
@@ -1889,7 +1893,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
 	{
@@ -1901,7 +1906,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
     {
@@ -1926,7 +1932,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
 	{
@@ -1938,7 +1945,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
     {
@@ -2158,7 +2166,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
 	{
@@ -2170,7 +2179,8 @@
             "guns/00shot/00shot1.ogg",
 			"guns/00shot/00shot2.ogg",
 			"guns/00shot/00shot3.ogg",
-			"guns/00shot/00shot4.ogg"
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
         ]
     },
     {
