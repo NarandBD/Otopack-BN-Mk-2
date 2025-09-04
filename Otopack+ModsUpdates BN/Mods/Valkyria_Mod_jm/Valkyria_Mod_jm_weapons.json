@@ -446,6 +446,15 @@
 			"guns/eweapons/bio_blaster_gun_2.ogg"
         ]
     },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "val_valkyrurlance",
+        "files" : [
+            "Mods/Cata++/batterygun_reload.ogg"
+        ]
+    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
