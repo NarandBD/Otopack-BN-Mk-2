@@ -861,7 +861,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -872,7 +873,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -1031,6 +1033,16 @@
     },
 	{
         "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "BL9_sprayer_mk2",
+        "files" : [
+            "guns/reload/flammable/flammable_1.ogg",
+			"guns/reload/flammable/flammable_2.ogg"
+		]
+	},
+	{
+        "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
         "variant" : "BL9_melting_sprayer_mk2",
@@ -1127,16 +1139,6 @@
 			"guns/reload/launcher/launcher_3.ogg",
 			"guns/reload/launcher/launcher_4.ogg",
 			"guns/reload/launcher/launcher_5.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 70,
-        "variant" : "BL9_sprayer_mk2",
-        "files" : [
-            "guns/reload/flammable/flammable_1.ogg",
-			"guns/reload/flammable/flammable_2.ogg"
         ]
     },
 	{
@@ -2396,7 +2398,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -2407,7 +2410,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{

@@ -78,25 +78,19 @@
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
-        "volume" : 75,
+        "volume" : 35,
         "variant" : "robogun_beanbag",
         "files" : [
-            "guns/40mm/40mm_1.ogg",
-			"guns/40mm/40mm_2.ogg",
-			"guns/40mm/40mm_3.ogg",
-			"guns/40mm/40mm_4.ogg"
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
         ]
     },
 	{
         "type": "sound_effect",
         "id" : "fire_gun_distant",
-        "volume" : 60,
+        "volume" : 20,
         "variant" : "robogun_beanbag",
         "files" : [
-            "guns/40mm/40mm_1.ogg",
-			"guns/40mm/40mm_2.ogg",
-			"guns/40mm/40mm_3.ogg",
-			"guns/40mm/40mm_4.ogg"
+            "Mods/CRIT/crt_cqb_si_shotgun_fire.ogg"
         ]
     },
 	{
@@ -179,7 +173,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{
@@ -190,7 +185,8 @@
         "files" : [
             "guns/50/50_1.ogg",
 			"guns/50/50_2.ogg",
-			"guns/50/50_3.ogg"
+			"guns/50/50_3.ogg",
+			"guns/50/50_4.ogg"
         ]
     },
 	{

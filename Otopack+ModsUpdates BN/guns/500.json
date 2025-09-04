@@ -5,7 +5,7 @@
         "volume" : 75,
         "variant" : "bh_m89",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
 	{
@@ -14,7 +14,7 @@
         "volume" : 60,
         "variant" : "bh_m89",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
     {
@@ -36,7 +36,7 @@
         "volume" : 75,
         "variant" : "sw_500",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
 	{
@@ -45,7 +45,7 @@
         "volume" : 60,
         "variant" : "sw_500",
         "files" : [
-            "guns/500/500.ogg"
+            "guns/500/500_1.ogg"
         ]
     },
     {

@@ -1,0 +1,1 @@
+stonedoor_openclose.ogg -> vgstation-coders / vgstation13 on github, vgstation13/sound/effects

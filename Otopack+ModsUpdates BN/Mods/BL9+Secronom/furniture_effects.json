@@ -62,16 +62,9 @@
     "variant": "f_secro_flower_flesh",
     "volume": 30,
     "files": [
-      "terrain/tree/hit_grass_1.ogg",
-      "terrain/tree/hit_grass_2.ogg",
-      "terrain/tree/hit_grass_3.ogg",
-      "terrain/tree/hit_grass_4.ogg",
-      "terrain/tree/hit_grass_5.ogg",
-      "terrain/tree/hit_grass_6.ogg",
-      "terrain/tree/hit_grass_7.ogg",
-      "terrain/tree/hit_grass_8.ogg",
-      "terrain/tree/hit_grass_9.ogg",
-      "terrain/tree/hit_grass_10.ogg"
+      "terrain/fungal/smash_fungal_1",
+	  "terrain/fungal/smash_fungal_2",
+	  "terrain/fungal/smash_fungal_3"
     ]
   },
   {

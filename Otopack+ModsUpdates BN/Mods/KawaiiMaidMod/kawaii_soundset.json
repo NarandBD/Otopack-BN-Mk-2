@@ -1,5 +1,5 @@
-[
- {
+[ 
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -10,9 +10,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -23,9 +23,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_selfbow",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -36,9 +48,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -49,9 +61,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_custombow_v1",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -62,9 +86,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -75,9 +99,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_custombow_v2",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -88,9 +124,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -101,9 +137,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_custombow_v3",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -114,9 +162,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -127,9 +175,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_shieldbow",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -140,9 +200,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -153,9 +213,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_shelia_on",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -166,9 +238,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -179,9 +251,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_leila",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -192,9 +276,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -205,9 +289,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_daikyu",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 75,
@@ -218,9 +314,9 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 40,
@@ -231,9 +327,21 @@
 		 "guns/archery/archery_3.ogg",
 		 "guns/archery/archery_4.ogg",
 		 "guns/archery/archery_5.ogg"
-     ]
- },
- {
+        ]
+    },
+    {
+     "type": "sound_effect",
+     "id" : "reload",
+     "volume" : 75,
+     "variant" : "kawaii_glass_bow",
+     "files" : [
+         "guns/archery/takearrow_1.ogg",
+		 "guns/archery/takearrow_2.ogg",
+		 "guns/archery/takearrow_3.ogg",
+	     "guns/archery/takearrow_4.ogg"
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun",
      "volume" : 50,
@@ -249,9 +357,9 @@
 		 "guns/308/308_8.ogg",
 		 "guns/308/308_9.ogg",
 		 "guns/308/308_10.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "fire_gun_distant",
      "volume" : 20,
@@ -267,9 +375,9 @@
 		 "guns/308/308_8.ogg",
 		 "guns/308/308_9.ogg",
 		 "guns/308/308_10.ogg"
-     ]
- },
- {
+        ]
+    },
+	{
      "type": "sound_effect",
      "id" : "reload",
      "volume" : 50,
@@ -280,6 +388,6 @@
 		 "guns/reload/rifle/rifle_3.ogg",
 		 "guns/reload/rifle/rifle_4.ogg",
 		 "guns/reload/rifle/rifle_5.ogg"
-     ]
- }
+        ]
+    }
 ]

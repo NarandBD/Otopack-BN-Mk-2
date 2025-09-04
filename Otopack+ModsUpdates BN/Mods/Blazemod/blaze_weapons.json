@@ -5,7 +5,7 @@
         "volume" : 50,
         "variant" : "teslagun",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -17,7 +17,7 @@
         "volume" : 20,
         "variant" : "teslagun",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -351,7 +351,6 @@
         "volume" : 50,
         "variant" : "gattler",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -364,7 +363,6 @@
         "volume" : 20,
         "variant" : "gattler",
         "files" : [
-            "guns/flintlock/flintlock_1.ogg",
 			"guns/flintlock/flintlock_2.ogg",
 			"guns/flintlock/flintlock_3.ogg",
 			"guns/flintlock/flintlock_4.ogg",
@@ -377,7 +375,6 @@
         "volume" : 50,
         "variant" : "gattler",
         "files" : [
-            "guns/reload/rifle_s/rifle_1.ogg",
 			"guns/reload/rifle_s/rifle_2.ogg",
 			"guns/reload/rifle_s/rifle_3.ogg",
 			"guns/reload/rifle_s/rifle_4.ogg",
@@ -390,8 +387,8 @@
         "volume" : 50,
         "variant" : "cangun",
         "files" : [
-           "guns/others/tihar_1.ogg",
-		   "guns/others/tihar_2.ogg"
+			"guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
         ]
     },
 	{
@@ -400,8 +397,8 @@
         "volume" : 20,
         "variant" :  "cangun",
         "files" : [
-           "guns/others/tihar_1.ogg",
-		   "guns/others/tihar_2.ogg"
+			"guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg"
         ]
     },
 	{
@@ -410,7 +407,7 @@
         "volume" : 50,
         "variant" : "cangun",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+			"guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -439,7 +436,7 @@
         "volume" : 50,
         "variant" : "scattergun",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+			"guns/reload/others/hellsing.ogg"
         ]
     },
 	{
@@ -468,7 +465,7 @@
         "volume" : 50,
         "variant" : "tiharturret",
         "files" : [
-            "guns/crossbows/hellsing_reload.ogg"
+			"guns/reload/others/hellsing.ogg"
         ]
     },
 	{
