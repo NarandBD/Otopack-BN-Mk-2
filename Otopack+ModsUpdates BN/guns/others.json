@@ -80,7 +80,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 45,
         "variant" : "tihar",
         "files" : [
             "guns/reload/others/hellsing.ogg"
@@ -111,7 +111,7 @@
     {
         "type": "sound_effect",
         "id" : "reload",
-        "volume" : 75,
+        "volume" : 45,
         "variant" : "helsing",
         "files" : [
             "guns/reload/others/hellsing.ogg"
