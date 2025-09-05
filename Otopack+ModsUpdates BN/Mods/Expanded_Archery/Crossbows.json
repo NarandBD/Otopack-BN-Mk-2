@@ -1,0 +1,194 @@
+[
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "compositecrossbow",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "compositecrossbow",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "compositecrossbow",
+        "files" : [
+            "guns/crossbows/reload_1.ogg",
+			"guns/crossbows/reload_2.ogg"
+        ]
+    },
+   {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "compcrossbow",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "compcrossbow",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "compcrossbow",
+        "files" : [
+            "guns/crossbows/reload_1.ogg",
+			"guns/crossbows/reload_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "pneu_sniper",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "pneu_sniper",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "pneu_sniper",
+        "files" : [
+            "guns/reload/others/hellsing.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "airbower",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "airbower",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "airbower",
+        "files" : [
+            "guns/reload/others/hellsing.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "airbower_succ",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 94,
+        "variant" : "airbower_succ",
+        "files" : [
+            "guns/others/hellsing_1",
+			"guns/others/hellsing_2",
+			"guns/others/hellsing_3"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "airbower_succ",
+        "files" : [
+            "guns/reload/others/hellsing.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "a22_bolter",
+        "files" : [
+            "Mods/Expanded_Archery/a22_bolter_1.ogg",
+			"Mods/Expanded_Archery/a22_bolter_2.ogg",
+			"Mods/Expanded_Archery/a22_bolter_3.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "a22_bolter",
+        "files" : [
+            "Mods/Expanded_Archery/a22_bolter_1.ogg",
+			"Mods/Expanded_Archery/a22_bolter_2.ogg",
+			"Mods/Expanded_Archery/a22_bolter_3.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "a22_bolter",
+        "files" : [
+            "Mods/Expanded_Archery/a22_bolter_reload.ogg"
+        ]
+	}
+]

@@ -1,0 +1,5 @@
+- handgun:
+shot.ogg and shot_alt.ogg -> tgstation / /tg/station on github, tgstation/sound/items/weapons/gun/pistol
+
+- smg:
+shot.ogg and shot_alt.ogg -> tgstation / /tg/station on github, tgstation/sound/items/weapons/gun/smg

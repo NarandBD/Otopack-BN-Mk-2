@@ -4,14 +4,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "thunder_sigil",
-    "files": [ "Mods/Arcana/thunder_sigil_1.ogg", "Mods/Arcana/thunder_sigil_2.ogg" ]
+    "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "thunder_sigil",
-    "files": [ "Mods/Arcana/thunder_sigil_1.ogg", "Mods/Arcana/thunder_sigil_2.ogg" ]
+    "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -19,11 +19,11 @@
     "volume": 50,
     "variant": "thunder_sigil",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -31,14 +31,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "bloodscourge",
-    "files": [ "Mods/Arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "bloodscourge",
-    "files": [ "Mods/Arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -46,11 +46,11 @@
     "volume": 50,
     "variant": "bloodscourge",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -58,14 +58,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "ethereal_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "ethereal_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -73,11 +73,11 @@
     "volume": 50,
     "variant": "ethereal_crossbow",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -85,14 +85,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "ethereal_hand_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "ethereal_hand_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -100,11 +100,11 @@
     "volume": 50,
     "variant": "ethereal_hand_crossbow",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -112,14 +112,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "ethereal_huge_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "ethereal_huge_crossbow",
-    "files": [ "Mods/Arcana/ethereal_crossbow_1.ogg", "Mods/Arcana/ethereal_crossbow_2.ogg", "Mods/Arcana/ethereal_crossbow_3.ogg" ]
+    "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -127,11 +127,11 @@
     "volume": 50,
     "variant": "ethereal_huge_crossbow",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -139,14 +139,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "hand_of_armok",
-    "files": [ "Mods/Arcana/hand_of_armok.ogg" ]
+    "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "hand_of_armok",
-    "files": [ "Mods/Arcana/hand_of_armok.ogg" ]
+    "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -154,11 +154,11 @@
     "volume": 50,
     "variant": "hand_of_armok",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -166,14 +166,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "scourge_staff",
-    "files": [ "Mods/Arcana/scourge_staff.ogg" ]
+    "files": [ "Mods/arcana/scourge_staff.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "scourge_staff",
-    "files": [ "Mods/Arcana/scourge_staff.ogg" ]
+    "files": [ "Mods/arcana/scourge_staff.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -181,11 +181,11 @@
     "volume": 50,
     "variant": "scourge_staff",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -230,11 +230,11 @@
     "volume": 50,
     "variant": "rift_focus_cannon",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -256,14 +256,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "bio_rift_focus_projector_gun",
-    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg" ]
+    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg", "guns/eweapons/bio_laser_gun_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "bio_rift_focus_projector_gun",
-    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg" ]
+    "files": [ "guns/eweapons/bio_laser_gun_1.ogg", "guns/eweapons/bio_laser_gun_2.ogg", "guns/eweapons/bio_laser_gun_3.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -296,14 +296,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "monster_fire_fake",
-    "files": [ "Mods/Arcana/hand_of_armok.ogg" ]
+    "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "monster_fire_fake",
-    "files": [ "Mods/Arcana/hand_of_armok.ogg" ]
+    "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -311,11 +311,11 @@
     "volume": 50,
     "variant": "monster_fire_fake",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -323,14 +323,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "monster_lightning_fake",
-    "files": [ "Mods/Arcana/thunder_sigil_1.ogg", "Mods/Arcana/thunder_sigil_2.ogg" ]
+    "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "monster_lightning_fake",
-    "files": [ "Mods/Arcana/thunder_sigil_1.ogg", "Mods/Arcana/thunder_sigil_2.ogg" ]
+    "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -338,11 +338,11 @@
     "volume": 50,
     "variant": "monster_lightning_fake",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -365,11 +365,11 @@
     "volume": 50,
     "variant": "monster_laser_fake",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   },
   {
@@ -377,14 +377,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "mut_dragonfire",
-    "files": [ "Mods/Arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "mut_dragonfire",
-    "files": [ "Mods/Arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge.ogg" ]
   },
   {
     "type": "sound_effect",
@@ -392,11 +392,11 @@
     "volume": 50,
     "variant": "mut_dragonfire",
     "files": [
-      "Mods/Arcana/essence_1.ogg",
-      "Mods/Arcana/essence_2.ogg",
-      "Mods/Arcana/essence_3.ogg",
-      "Mods/Arcana/essence_4.ogg",
-      "Mods/Arcana/essence_5.ogg"
+      "Mods/arcana/essence_1.ogg",
+      "Mods/arcana/essence_2.ogg",
+      "Mods/arcana/essence_3.ogg",
+      "Mods/arcana/essence_4.ogg",
+      "Mods/arcana/essence_5.ogg"
     ]
   }
 ]

@@ -5,7 +5,7 @@
         "volume" : 50,
         "variant" : "voideater",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -17,7 +17,7 @@
         "volume" : 20,
         "variant" : "voideater",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -29,8 +29,8 @@
         "volume" : 50,
         "variant" : "torchie",
         "files" : [
-           "guns/flammable/flammable_1.ogg",
-		   "guns/flammable/flammable_2.ogg"
+			"guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
         ]
     },
 	{
@@ -49,7 +49,7 @@
         "volume" : 50,
         "variant" : "sparkie",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -61,7 +61,7 @@
         "volume" : 20,
         "variant" : "sparkie",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -73,7 +73,7 @@
         "volume" : 50,
         "variant" : "gelrazor",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -83,7 +83,7 @@
         "volume" : 20,
         "variant" : "gelrazor",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -104,7 +104,7 @@
         "volume" : 50,
         "variant" : "spouterqueen",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -113,7 +113,7 @@
         "volume" : 20,
         "variant" : "spouterqueen",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -122,7 +122,7 @@
         "volume" : 50,
         "variant" : "razorqueen",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -132,7 +132,7 @@
         "volume" : 20,
         "variant" : "razorqueen",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -153,7 +153,7 @@
         "volume" : 50,
         "variant" : "horror",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -165,7 +165,7 @@
         "volume" : 20,
         "variant" : "horror",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -188,7 +188,7 @@
         "volume" : 50,
         "variant" : "fuzzle",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -200,7 +200,7 @@
         "volume" : 20,
         "variant" : "fuzzle",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -223,7 +223,7 @@
         "volume" : 50,
         "variant" : "freezie",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -232,7 +232,7 @@
         "volume" : 20,
         "variant" : "freezie",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -241,7 +241,7 @@
         "volume" : 50,
         "variant" : "meltie",
         "files" : [
-            "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -250,7 +250,7 @@
         "volume" : 20,
         "variant" : "meltie",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -269,8 +269,8 @@
         "volume" : 20,
         "variant" : "inkie",
         "files" : [
-           "guns/flammable/flammable_1.ogg",
-		   "guns/flammable/flammable_2.ogg"
+			"guns/flammable/flammable_1.ogg",
+			"guns/flammable/flammable_2.ogg"
         ]
     },
 	{
@@ -279,7 +279,7 @@
         "volume" : 50,
         "variant" : "stickie",
         "files" : [
-            "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -288,7 +288,7 @@
         "volume" : 20,
         "variant" : "stickie",
         "files" : [
-           "guns/others/watercannon.ogg"
+			"guns/others/watercannon.ogg"
         ]
     },
 	{
@@ -307,7 +307,7 @@
         "volume" : 20,
         "variant" : "biter",
         "files" : [
-           "bionics/elec_crackle_med_1.ogg",
+			"bionics/elec_crackle_med_1.ogg",
 			"bionics/elec_crackle_med_2.ogg",
 			"bionics/elec_crackle_high_1.ogg",
 			"bionics/elec_crackle_high_2.ogg"
@@ -340,7 +340,7 @@
         "volume" : 20,
         "variant" : "edge",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -360,7 +360,7 @@
         "volume" : 20,
         "variant" : "clutter",
         "files" : [
-           "guns/others/tihar_1.ogg",
+			"guns/others/tihar_1.ogg",
 			"guns/others/tihar_2.ogg"
         ]
     },
@@ -391,8 +391,8 @@
         "volume" : 20,
         "variant" : "sharp",
         "files" : [
-           "guns/others/tihar_1.ogg",
-		   "guns/others/tihar_2.ogg" 
+			"guns/others/tihar_1.ogg",
+			"guns/others/tihar_2.ogg" 
         ]
     },
 	{
