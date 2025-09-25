@@ -384,42 +384,5 @@
 			"guns/reload/revolver/revolver_4.ogg",
 			"guns/reload/revolver/revolver_5.ogg"
         ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun",
-        "volume" : 50,
-        "variant" : "M6_shotgun",
-        "files" : [
-           "Mods/Realguns/410_1.ogg",
-		   "Mods/Realguns/410_2.ogg",
-		   "Mods/Realguns/410_3.ogg",
-		   "Mods/Realguns/410_4.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "fire_gun_distant",
-        "volume" : 20,
-        "variant" : "M6_shotgun",
-        "files" : [
-           "Mods/Realguns/410_1.ogg",
-		   "Mods/Realguns/410_2.ogg",
-		   "Mods/Realguns/410_3.ogg",
-		   "Mods/Realguns/410_4.ogg"
-        ]
-    },
-	{
-        "type": "sound_effect",
-        "id" : "reload",
-        "volume" : 50,
-        "variant" : "M6_shotgun",
-        "files" : [
-            "guns/reload/shotgun/pumpreload1.ogg",
-			"guns/reload/shotgun/pumpreload2.ogg",
-			"guns/reload/shotgun/pumpreload3.ogg",
-			"guns/reload/shotgun/pumpreload4.ogg",
-			"guns/reload/shotgun/pumpreload5.ogg"
-        ]
     }
 ]

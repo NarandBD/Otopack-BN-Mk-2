@@ -169,6 +169,32 @@
 			"guns/20x66mm/20x66mm_2.ogg",
 			"guns/20x66mm/20x66mm_3.ogg",
 			"guns/20x66mm/20x66mm_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "M6_shotgun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "M6_shotgun",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+			"guns/00shot/00shot2.ogg",
+			"guns/00shot/00shot3.ogg",
+			"guns/00shot/00shot4.ogg",
+			"guns/00shot/00shot5.ogg"
 		]
 	}
 ]
