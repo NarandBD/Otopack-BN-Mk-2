@@ -1,4 +1,4 @@
-I'm currently on a hiatus. I'm trying to allocate time in December to get back to working on this (around mid-December after studies), but I'm still keeping track on CBN's repository for when I get back to working on this. Sorry for the lack of communication :(
+PRs from me will continue in January, at least setting aside a day or two to get something decent out to here before I have to go back to doing research for real life stuff. Thank you again for your patience.
 
 # This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, but I'm busy with real life stuff so updates will be infrequent.
 
