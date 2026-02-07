@@ -370,15 +370,6 @@
     },
 	{
 		"type": "sound_effect",
-        "id" : "shout",
-        "variant" : "default",
-        "volume" : 15,
-        "files" : [
-			"effects/shout/scream_2.ogg"
-        ]
-    },
-	{
-		"type": "sound_effect",
         "id" : "activity",
         "variant" : "burrow",
         "volume" : 20,

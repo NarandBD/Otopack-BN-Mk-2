@@ -1,4 +1,4 @@
-# This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, but I'm especially busy nowadays because of real life stuff happening so don't expect frequency.
+# This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, but I'm busy with real life stuff so updates will be infrequent.
 
 I'll compile releases containing all changes/additons after a moderate amount of work has been done, with hotfixes and such as needed.
 
