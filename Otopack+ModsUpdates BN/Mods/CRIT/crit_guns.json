@@ -20,6 +20,26 @@
         ]
     },
 	{
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 25,
+        "variant" : "crt_laser_pistol_brk",
+        "files" : [
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 15,
+        "variant" : "crt_laser_pistol_brk",
+        "files" : [
+             "Mods/CRIT/lp_1.ogg",
+			 "Mods/CRIT/lp_2.ogg"
+        ]
+    },
+	{
 		"type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 35,
@@ -323,6 +343,35 @@
         "variant" : "flare_gmod",
         "files" : [
             "guns/flare/flare.ogg"
+		]
+    },
+	{
+		"type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "crt_pelletsniper",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "crt_pelletsniper",
+        "files" : [
+            "guns/others/bbgun_1.ogg",
+			"guns/others/bbgun_2.ogg"
+		]
+	},
+	{
+		"type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "crt_pelletsniper",
+        "files" : [
+            "guns/reload/others/bbgun.ogg"
 		]
 	}
 ]
