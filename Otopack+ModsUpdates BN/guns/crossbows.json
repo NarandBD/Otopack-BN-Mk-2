@@ -270,5 +270,39 @@
             "guns/crossbows/reload_1.ogg",
 			"guns/crossbows/reload_2.ogg"
         ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "launcher_ballista",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 55,
+        "variant" : "launcher_ballista",
+        "files" : [
+            "guns/crossbows/crossbows_1.ogg",
+			"guns/crossbows/crossbows_2.ogg",
+			"guns/crossbows/crossbows_3.ogg",
+			"guns/crossbows/crossbows_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "launcher_ballista",
+        "files" : [
+            "guns/crossbows/reload_1.ogg",
+			"guns/crossbows/reload_2.ogg"
+        ]
     }
 ]

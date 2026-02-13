@@ -1340,6 +1340,15 @@
         "volume" : 50,
         "files" : [
             "effects/misc/rc_car_hits_obstacle.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "misc",
+        "variant" : "insect_wings",
+        "volume" : 55,
+        "files" : [
+			"effects/misc/insect_wings.ogg"
 		]
 	}
 ]
