@@ -11743,5 +11743,41 @@
 			"terrain/metal/smash_metal_9.ogg",
 			"terrain/metal/smash_metal_10.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_cave_mushrooms",
+        "volume" : 50,
+        "files" : [
+            "terrain/tree/hit_grass_1.ogg",
+			"terrain/tree/hit_grass_2.ogg",
+			"terrain/tree/hit_grass_3.ogg",
+			"terrain/tree/hit_grass_4.ogg",
+			"terrain/tree/hit_grass_5.ogg",
+			"terrain/tree/hit_grass_6.ogg",
+			"terrain/tree/hit_grass_7.ogg",
+			"terrain/tree/hit_grass_8.ogg",
+			"terrain/tree/hit_grass_9.ogg",
+			"terrain/tree/hit_grass_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_cave_mushrooms",
+        "volume" : 50,
+        "files" : [
+            "terrain/tree/hit_grass_1.ogg",
+			"terrain/tree/hit_grass_2.ogg",
+			"terrain/tree/hit_grass_3.ogg",
+			"terrain/tree/hit_grass_4.ogg",
+			"terrain/tree/hit_grass_5.ogg",
+			"terrain/tree/hit_grass_6.ogg",
+			"terrain/tree/hit_grass_7.ogg",
+			"terrain/tree/hit_grass_8.ogg",
+			"terrain/tree/hit_grass_9.ogg",
+			"terrain/tree/hit_grass_10.ogg"
+        ]
     }
 ]
