@@ -1,4 +1,4 @@
-### This is how to convert to .ogg whilst minimizing file size (for not technical people (that includes me)):
+## Edit: Use Audacity for both conversion and editing, this is for those who don't like using External software.
 
 * First, go to https://convertio.co/
   
@@ -25,3 +25,6 @@ are already in a .ogg format will shave off a handful of Kilobytes with near ide
 
 If you know a better place and or method to convert audio files to .ogg and or reduce the file sizes of them then by all means go ahead,
 this is mainly for contributers who dont know where to start. ~~unfortunately that includes me :(~~
+
+As for editing, microsoft clipchamp will suffice. However, using an audio editing software is preferable as it allows for more fine tuning.
+
