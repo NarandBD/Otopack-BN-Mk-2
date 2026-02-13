@@ -23,7 +23,11 @@
         "volume" : 75,
         "variant" : "l_lookout_9mm",
         "files" : [
-            "guns/reload/revolver/revolver_speedloader.ogg"
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
         ]
     },
     {
