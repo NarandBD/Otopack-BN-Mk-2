@@ -11923,5 +11923,57 @@
 			"terrain/rock/smash_rock_9.ogg",
 			"terrain/rock/smash_rock_10.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_cloning_vat",
+        "volume" : 50,
+        "files" : [
+            "terrain/glass/hit_glass_safety_1.ogg",
+			"terrain/glass/hit_glass_safety_2.ogg",
+			"terrain/glass/hit_glass_safety_3.ogg",
+			"terrain/glass/hit_glass_safety_4.ogg",
+			"terrain/glass/hit_glass_safety_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_cloning_vat",
+        "volume" : 50,
+        "files" : [
+            "terrain/glass/smash_glass_safety_1.ogg",
+			"terrain/glass/smash_glass_safety_2.ogg",
+			"terrain/glass/smash_glass_safety_3.ogg",
+			"terrain/glass/smash_glass_safety_4.ogg",
+			"terrain/glass/smash_glass_safety_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_cloning_vat_active",
+        "volume" : 50,
+        "files" : [
+            "terrain/glass/hit_glass_safety_1.ogg",
+			"terrain/glass/hit_glass_safety_2.ogg",
+			"terrain/glass/hit_glass_safety_3.ogg",
+			"terrain/glass/hit_glass_safety_4.ogg",
+			"terrain/glass/hit_glass_safety_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_cloning_vat_active",
+        "volume" : 50,
+        "files" : [
+            "terrain/glass/smash_glass_safety_1.ogg",
+			"terrain/glass/smash_glass_safety_2.ogg",
+			"terrain/glass/smash_glass_safety_3.ogg",
+			"terrain/glass/smash_glass_safety_4.ogg",
+			"terrain/glass/smash_glass_safety_5.ogg"
+        ]
     }
 ]
