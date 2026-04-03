@@ -1360,6 +1360,7 @@
 			"guns/reload/shotgun/pumpreload3.ogg",
 			"guns/reload/shotgun/pumpreload4.ogg",
 			"guns/reload/shotgun/pumpreload5.ogg"
+		]
     },
     {
         "type": "sound_effect",
