@@ -2,7 +2,7 @@
 
 I'll compile releases containing all changes/additons every now and then.
 
-Contributions from others are welcome, my sentiment is as long as it sounds like how it should w/o severe copyright issues then It's fine. i.e. using tf2/cs:source/gmod sound effects is kind of fine, but i use irl sources and sound effects from sources that don't pull you out this soundpacks music _too harshly_.
+Contributions from others are welcome, my sentiment is as long as it sounds like how it should w/o severe copyright issues then It's fine. i.e. using tf2/cs:source/gmod sound effects is kind of fine, but i use irl sources and sound effects from sources that don't pull you out the games environment _too harshly_.
 
 _**If you want to get the latest updates/version, download the zip from the green button that says "<> code" above. Unzip the zip file, then drag and drop JUST Otopack+ModsUpdates BN into your sound folder. Make sure you have it set under settings.**_
 
