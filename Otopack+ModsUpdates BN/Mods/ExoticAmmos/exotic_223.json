@@ -90,11 +90,11 @@
         "volume" : 75,
         "variant" : "l_base_223",
         "files" : [
-            "guns/reload/rifle_m/rifle_1",
-			"guns/reload/rifle_m/rifle_2",
-			"guns/reload/rifle_m/rifle_3",
-			"guns/reload/rifle_m/rifle_4",
-			"guns/reload/rifle_m/rifle_5"
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+			"guns/reload/rifle_m/rifle_3.ogg",
+			"guns/reload/rifle_m/rifle_4.ogg",
+			"guns/reload/rifle_m/rifle_5.ogg"
         ]
     },
     {
@@ -139,11 +139,11 @@
         "volume" : 75,
         "variant" : "l_car_223",
         "files" : [
-            "guns/reload/rifle_m/rifle_1",
-			"guns/reload/rifle_m/rifle_2",
-			"guns/reload/rifle_m/rifle_3",
-			"guns/reload/rifle_m/rifle_4",
-			"guns/reload/rifle_m/rifle_5"
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+			"guns/reload/rifle_m/rifle_3.ogg",
+			"guns/reload/rifle_m/rifle_4.ogg",
+			"guns/reload/rifle_m/rifle_5.ogg"
         ]
     },
     {
@@ -188,11 +188,11 @@
         "volume" : 75,
         "variant" : "l_dsr_223",
         "files" : [
-            "guns/reload/rifle_m/rifle_1",
-			"guns/reload/rifle_m/rifle_2",
-			"guns/reload/rifle_m/rifle_3",
-			"guns/reload/rifle_m/rifle_4",
-			"guns/reload/rifle_m/rifle_5"
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+			"guns/reload/rifle_m/rifle_3.ogg",
+			"guns/reload/rifle_m/rifle_4.ogg",
+			"guns/reload/rifle_m/rifle_5.ogg"
         ]
     },
     {
