@@ -73,9 +73,9 @@
         "volume" : 75,
         "variant" : "pneu_sniper",
         "files" : [
-            "guns/others/hellsing_1",
-			"guns/others/hellsing_2",
-			"guns/others/hellsing_3"
+            "guns/others/hellsing_1.ogg",
+			"guns/others/hellsing_2.ogg",
+			"guns/others/hellsing_3.ogg"
         ]
     },
 	{
@@ -84,9 +84,9 @@
         "volume" : 40,
         "variant" : "pneu_sniper",
         "files" : [
-            "guns/others/hellsing_1",
-			"guns/others/hellsing_2",
-			"guns/others/hellsing_3"
+            "guns/others/hellsing_1.ogg",
+			"guns/others/hellsing_2.ogg",
+			"guns/others/hellsing_3.ogg"
         ]
     },
     {

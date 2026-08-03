@@ -62,9 +62,9 @@
     "variant": "f_secro_flower_flesh",
     "volume": 30,
     "files": [
-      "terrain/fungal/smash_fungal_1",
-	  "terrain/fungal/smash_fungal_2",
-	  "terrain/fungal/smash_fungal_3"
+      "terrain/fungal/smash_fungal_1.ogg",
+	  "terrain/fungal/smash_fungal_2.ogg",
+	  "terrain/fungal/smash_fungal_3.ogg"
     ]
   },
   {
