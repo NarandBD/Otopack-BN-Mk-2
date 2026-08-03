@@ -227,11 +227,11 @@
         "volume" : 75,
         "variant" : "l_lmg_223",
         "files" : [
-            "guns/reload/mg/mgk_1",
-			"guns/reload/mg/mgk_2",
-			"guns/reload/mg/mgk_3",
-			"guns/reload/mg/mgk_4",
-			"guns/reload/mg/mgk_5"
+            "guns/reload/mg/mgk_1.ogg",
+			"guns/reload/mg/mgk_2.ogg",
+			"guns/reload/mg/mgk_3.ogg",
+			"guns/reload/mg/mgk_4.ogg",
+			"guns/reload/mg/mgk_5.ogg"
         ]
     },
     {
