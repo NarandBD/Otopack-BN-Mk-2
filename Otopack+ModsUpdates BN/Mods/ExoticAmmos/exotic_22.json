@@ -31,11 +31,11 @@
         "volume" : 75,
         "variant" : "rm360_carbine",
         "files" : [
-            "guns/reload/rifle_m/rifle_1",
-			"guns/reload/rifle_m/rifle_2",
-			"guns/reload/rifle_m/rifle_3",
-			"guns/reload/rifle_m/rifle_4",
-			"guns/reload/rifle_m/rifle_5"
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+			"guns/reload/rifle_m/rifle_3.ogg",
+			"guns/reload/rifle_m/rifle_4.ogg",
+			"guns/reload/rifle_m/rifle_5.ogg"
         ]
     }
 ]
