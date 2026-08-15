@@ -12011,5 +12011,41 @@
 			"terrain/metal/smash_metal_9.ogg",
 			"terrain/metal/smash_metal_10.ogg"
         ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "f_survivor_radio",
+        "volume" : 50,
+        "files" : [
+            "terrain/plastic/hit_plastic_1.ogg",
+			"terrain/plastic/hit_plastic_2.ogg",
+			"terrain/plastic/hit_plastic_3.ogg",
+			"terrain/plastic/hit_plastic_4.ogg",
+			"terrain/plastic/hit_plastic_5.ogg",
+			"terrain/plastic/hit_plastic_6.ogg",
+			"terrain/plastic/hit_plastic_7.ogg",
+			"terrain/plastic/hit_plastic_8.ogg",
+			"terrain/plastic/hit_plastic_9.ogg",
+			"terrain/plastic/hit_plastic_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "f_survivor_radio",
+        "volume" : 50,
+        "files" : [
+            "terrain/console/smash_console_1.ogg",
+			"terrain/console/smash_console_2.ogg",
+			"terrain/console/smash_console_3.ogg",
+			"terrain/console/smash_console_4.ogg",
+			"terrain/console/smash_console_5.ogg",
+			"terrain/console/smash_console_6.ogg",
+			"terrain/console/smash_console_7.ogg",
+			"terrain/console/smash_console_8.ogg",
+			"terrain/console/smash_console_9.ogg",
+			"terrain/console/smash_console_10.ogg"
+        ]
     }
 ]
