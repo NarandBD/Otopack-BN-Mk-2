@@ -2,7 +2,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_feral_human_pipe",
+    "variant": "mon_feral_blackops_boss_commander",
     "volume": 90,
     "files": [
       "speech/ferals/female_scream_1.ogg",
@@ -26,7 +26,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_chud",
+    "variant": "mon_feral_blackops_boss_bioop",
     "volume": 90,
     "files": [
       "speech/ferals/female_scream_1.ogg",
@@ -50,7 +50,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_feral_human_crowbar",
+    "variant": "mon_feral_blackops_boss_technician",
     "volume": 90,
     "files": [
       "speech/ferals/female_scream_1.ogg",
@@ -74,7 +74,7 @@
   {
     "type": "sound_effect",
     "id": "speech",
-    "variant": "mon_feral_human_axe",
+    "variant": "mon_feral_blackops_boss_sniper",
     "volume": 90,
     "files": [
       "speech/ferals/female_scream_1.ogg",
