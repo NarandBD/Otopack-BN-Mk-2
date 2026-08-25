@@ -36,8 +36,7 @@
           { "file": "music/silecut_-_ごめんなさい.ogg", "volume": 90 },
           { "file": "music/thenian_-_rivers_end.ogg", "volume": 75 },
           { "file": "music/xyla_-_UNREL.ogg", "volume": 70 },
-          { "file": "music/reality_-_hushed_snowfall.ogg", "volume": 75 },
-          { "file": "music/places_you_shouldnt_be.ogg", "volume": 65 }
+          { "file": "music/reality_-_hushed_snowfall.ogg", "volume": 75 }
         ]
       }
     ]

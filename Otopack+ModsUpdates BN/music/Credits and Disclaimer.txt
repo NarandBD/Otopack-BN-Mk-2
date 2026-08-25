@@ -1,16 +1,10 @@
-All rights to music/tracks used here goes to their respective authors. I do not own any of the music used.
+All music/tracks used here are from the authors listed below. I do not own any of the music used.
 
 _________________________________________________________________________________________________
 
 Originally pulled from https://github.com/vivyir/Otobleak/tree/master/Otobleak/music
 
 Contains dark ambient songs from amazing artists such as Airshade, Alixe., Antent, Ashess, Kaeshani, Leadwave, Ødyzon, Øneheart, James King, Piedkies, Willix, Hisohkah, Arbour, Fantompower, "my head is empty", Reidenshi, Diedlonely, Ambivert, Hiraeth, lost.empathy, Silecut, Thenian, Inertia, Reality and finally, Xyla! (inside the music directory every song contains the artist name(s) as well, and if instead of the name it has UNREL, it means that the song was unreleased and is probably unique to this repository, probably because I ripped it off somewhere)
-
-Also added album "ambient music for places you shouldn't be" by Odd Behavior 
-
-https://oddbehavior.bandcamp.com/album/ambient-music-for-places-you-shouldnt-be
-
-I do not own this eithier, all rights go to Odd Behavior.
 
 _________________________________________________________________________________________________
 
