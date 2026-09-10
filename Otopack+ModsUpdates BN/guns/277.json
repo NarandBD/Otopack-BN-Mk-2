@@ -1,0 +1,68 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "m7",
+        "files" : [
+            "guns/277/277_1.ogg",
+            "guns/277/277_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 65,
+        "variant" : "m7",
+        "files" : [
+            "guns/277/277_1.ogg",
+            "guns/277/277_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m7",
+        "files" : [
+            "guns/reload/rifle_m/rifle_1.ogg",
+			"guns/reload/rifle_m/rifle_2.ogg",
+            "guns/reload/rifle_m/rifle_3.ogg",
+            "guns/reload/rifle_m/rifle_4.ogg",
+            "guns/reload/rifle_m/rifle_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 80,
+        "variant" : "m250",
+        "files" : [
+            "guns/277/277_1.ogg",
+            "guns/277/277_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 65,
+        "variant" : "m250",
+        "files" : [
+            "guns/277/277_1.ogg",
+            "guns/277/277_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m250",
+        "files" : [
+            "guns/reload/mg/mgk_1.ogg",
+            "guns/reload/mg/mgk_2.ogg",
+            "guns/reload/mg/mgk_3.ogg",
+            "guns/reload/mg/mgk_4.ogg",
+            "guns/reload/mg/mgk_5.ogg"
+        ]
+    }
+]
