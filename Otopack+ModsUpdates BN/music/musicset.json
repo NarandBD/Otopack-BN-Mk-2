@@ -7,7 +7,8 @@
         "shuffle": true,
         "files": [
           { "file": "music/coldcore.ogg", "volume": 75 },
-          { "file": "music/i_hope_someone_will_find_me.ogg", "volume": 65 }
+          { "file": "music/staring.ogg", "volume": 65 },
+          { "file": "music/perception_defection.ogg", "volume": 65 }
         ]
       }
     ]
