@@ -165,11 +165,7 @@
         "variant" : "f_door_arcana_o",
         "volume" : 50,
         "files" : [
-			"env/open_close/door/safe/close_1.ogg",
-			"env/open_close/door/safe/close_2.ogg",
-			"env/open_close/door/safe/close_3.ogg",
-			"env/open_close/door/safe/close_4.ogg",
-			"env/open_close/door/safe/close_5.ogg"
+            "env/open_close/door/rock/stonedoor_openclose.ogg"
         ]
     },
 	{
@@ -215,11 +211,7 @@
         "variant" : "f_door_arcana_c",
         "volume" : 50,
         "files" : [
-            "env/open_close/door/safe/open_1.ogg",
-			"env/open_close/door/safe/open_2.ogg",
-			"env/open_close/door/safe/open_3.ogg",
-			"env/open_close/door/safe/open_4.ogg",
-			"env/open_close/door/safe/open_5.ogg"
+            "env/open_close/door/rock/stonedoor_openclose.ogg"
         ]
     },
 	{

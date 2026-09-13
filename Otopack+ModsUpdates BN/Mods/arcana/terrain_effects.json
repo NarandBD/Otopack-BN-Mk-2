@@ -1,0 +1,69 @@
+[
+  {
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_root_wall_arcana",
+        "volume" : 50,
+        "files" : [
+            "terrain/other/hit_dirt_1.ogg",
+			"terrain/other/hit_dirt_2.ogg",
+			"terrain/other/hit_dirt_3.ogg",
+			"terrain/other/hit_dirt_4.ogg",
+			"terrain/other/hit_dirt_5.ogg",
+            "terrain/other/hit_dirt_6.ogg",
+			"terrain/other/hit_dirt_7.ogg",
+			"terrain/other/hit_dirt_8.ogg",
+			"terrain/other/hit_dirt_9.ogg",
+			"terrain/other/hit_dirt_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_root_wall_arcana",
+        "volume" : 50,
+        "files" : [
+            "terrain/other/smash_dirt_1.ogg",
+			"terrain/other/smash_dirt_2.ogg",
+			"terrain/other/smash_dirt_3.ogg",
+			"terrain/other/smash_dirt_4.ogg",
+			"terrain/other/smash_dirt_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_fail",
+        "variant" : "t_wall_arcana_basement",
+        "volume" : 50,
+        "files" : [
+            "terrain/rock/hit_rock_1.ogg",
+			"terrain/rock/hit_rock_2.ogg",
+			"terrain/rock/hit_rock_3.ogg",
+			"terrain/rock/hit_rock_4.ogg",
+			"terrain/rock/hit_rock_5.ogg",
+			"terrain/rock/hit_rock_6.ogg",
+			"terrain/rock/hit_rock_7.ogg",
+			"terrain/rock/hit_rock_8.ogg",
+			"terrain/rock/hit_rock_9.ogg",
+			"terrain/rock/hit_rock_10.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "smash_success",
+        "variant" : "t_wall_arcana_basement",
+        "volume" : 50,
+        "files" : [
+            "terrain/rock/smash_rock_1.ogg",
+			"terrain/rock/smash_rock_2.ogg",
+			"terrain/rock/smash_rock_3.ogg",
+			"terrain/rock/smash_rock_4.ogg",
+			"terrain/rock/smash_rock_5.ogg",
+			"terrain/rock/smash_rock_6.ogg",
+			"terrain/rock/smash_rock_7.ogg",
+			"terrain/rock/smash_rock_8.ogg",
+			"terrain/rock/smash_rock_9.ogg",
+			"terrain/rock/smash_rock_10.ogg"
+        ]
+    }
+]
