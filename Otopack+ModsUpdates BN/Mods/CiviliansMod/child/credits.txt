@@ -1,0 +1,3 @@
+Reused some .ogg files from OG otopack.
+
+weird .ogg files came from TGstation: https://github.com/tgstation/tgstation/tree/master/sound/mobs/humanoids/human/laugh

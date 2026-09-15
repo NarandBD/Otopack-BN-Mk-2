@@ -1,0 +1,36 @@
+[
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_child",
+    "volume": 50,
+    "files": [
+      "Mods/CiviliansMod/child/child_m_1.ogg",
+	  "Mods/CiviliansMod/child/child_m_2.ogg",
+	  "Mods/CiviliansMod/child/child_f_2.ogg",
+	  "Mods/CiviliansMod/child/child_f_3.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_survivor_child",
+    "volume": 50,
+    "files": [
+      "Mods/CiviliansMod/child/child_weird_1.ogg",
+	  "Mods/CiviliansMod/child/child_weird_2.ogg",
+	  "Mods/CiviliansMod/child/child_weird_3.ogg"
+    ]
+  },
+  {
+	"type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_civilian_survivor_child_elite",
+    "volume": 50,
+    "files": [
+      "Mods/CiviliansMod/child_weird_1.ogg",
+	  "Mods/CiviliansMod/child_weird_2.ogg",
+	  "Mods/CiviliansMod/child_weird_3.ogg"
+    ]
+  }
+]
