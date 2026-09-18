@@ -1,0 +1,177 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_archon",
+    "volume": 90,
+    "files": [
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_seraphic_shade",
+    "volume": 90,
+    "files": [
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_human_crowbar",
+    "volume": 90,
+    "files": [
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_summoner",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_keeper",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_magehunter",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_sanguinist",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_shadow_summoned",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_shadow_snake_summoned",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg"
+    ]
+  }
+]

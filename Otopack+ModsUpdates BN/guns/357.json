@@ -91,5 +91,36 @@
 			"guns/reload/pistol_l/pistol_4.ogg",
 			"guns/reload/pistol_l/pistol_5.ogg"
         ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "handmade_revolver",
+        "files" : [
+            "guns/357/357.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "handmade_revolver",
+        "files" : [
+            "guns/357/357.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "handmade_revolver",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+            "guns/reload/revolver/revolver_2.ogg",
+            "guns/reload/revolver/revolver_3.ogg",
+            "guns/reload/revolver/revolver_4.ogg",
+            "guns/reload/revolver/revolver_5.ogg"
+        ]
     }
 ]

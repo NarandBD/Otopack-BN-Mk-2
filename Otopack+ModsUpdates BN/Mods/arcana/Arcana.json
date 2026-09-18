@@ -398,5 +398,28 @@
       "Mods/arcana/essence_4.ogg",
       "Mods/arcana/essence_5.ogg"
     ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun",
+    "volume": 75,
+    "variant": "shrike_misericorde_folded",
+    "files": [ "guns/flintlock/pistol_1.ogg", "guns/flintlock/pistol_2.ogg", "guns/flintlock/pistol_4.ogg", "guns/flintlock/pistol_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "fire_gun_distant",
+    "volume": 40,
+    "variant": "shrike_misericorde_folded",
+    "files": [ "guns/flintlock/pistol_1.ogg", "guns/flintlock/pistol_2.ogg", "guns/flintlock/pistol_4.ogg", "guns/flintlock/pistol_5.ogg" ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "reload",
+    "volume": 75,
+    "variant": "shrike_misericorde_folded",
+    "files": [
+      "guns/reload/others/flintlock.ogg"
+    ]
   }
 ]

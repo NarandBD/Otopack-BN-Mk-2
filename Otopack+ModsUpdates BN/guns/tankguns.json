@@ -440,5 +440,42 @@
 			"guns/reload/mg/mgk_4.ogg",
 			"guns/reload/mg/mgk_5.ogg"
         ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 50,
+        "variant" : "25mm_rotary_cannon",
+        "files" : [
+           "mods/guns/others/30mm_1.ogg",
+           "mods/guns/others/30mm_2.ogg",
+           "mods/guns/others/30mm_3.ogg",
+           "mods/guns/others/30mm_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 20,
+        "variant" : "25mm_rotary_cannon",
+        "files" : [
+           "mods/guns/others/30mm_1.ogg",
+           "mods/guns/others/30mm_2.ogg",
+           "mods/guns/others/30mm_3.ogg",
+           "mods/guns/others/30mm_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 50,
+        "variant" : "25mm_rotary_cannon",
+        "files" : [
+            "guns/reload/mg/mgk_1.ogg",
+            "guns/reload/mg/mgk_2.ogg",
+            "guns/reload/mg/mgk_3.ogg",
+            "guns/reload/mg/mgk_4.ogg",
+            "guns/reload/mg/mgk_5.ogg"
+        ]
     }
 ]
