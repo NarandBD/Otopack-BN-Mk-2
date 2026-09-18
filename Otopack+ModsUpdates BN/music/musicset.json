@@ -6,9 +6,8 @@
         "id": "title",
         "shuffle": true,
         "files": [
-          { "file": "music/coldcore.ogg", "volume": 65 },
-          { "file": "music/staring.ogg", "volume": 65 },
-          { "file": "music/perception_defection.ogg", "volume": 50 }
+          { "file": "music/coldcore.ogg", "volume": 75 },
+          { "file": "music/staring.ogg", "volume": 60 }
         ]
       }
     ]
