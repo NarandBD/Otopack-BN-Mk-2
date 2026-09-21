@@ -1,0 +1,110 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 60,
+        "variant" : "ichaival",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+            "guns/archery/archery_2.ogg",
+            "guns/archery/archery_3.ogg",
+            "guns/archery/archery_4.ogg",
+            "guns/archery/archery_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 30,
+        "variant" : "ichaival",
+        "files" : [
+            "guns/archery/archery_1.ogg",
+            "guns/archery/archery_2.ogg",
+            "guns/archery/archery_3.ogg",
+            "guns/archery/archery_4.ogg",
+            "guns/archery/archery_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "ichaival",
+        "files" : [
+            "guns/archery/takearrow_1.ogg",
+            "guns/archery/takearrow_2.ogg",
+            "guns/archery/takearrow_3.ogg",
+            "guns/archery/takearrow_4.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m47a1",
+        "files" : [
+            "guns/357/357.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m47a1",
+        "files" : [
+            "guns/357/357.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m47a1",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "gunblade",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+            "guns/00shot/00shot2.ogg",
+            "guns/00shot/00shot3.ogg",
+            "guns/00shot/00shot4.ogg",
+            "guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "gunblade",
+        "files" : [
+            "guns/00shot/00shot1.ogg",
+            "guns/00shot/00shot2.ogg",
+            "guns/00shot/00shot3.ogg",
+            "guns/00shot/00shot4.ogg",
+            "guns/00shot/00shot5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 70,
+        "variant" : "gunblade",
+        "files" : [
+            "guns/reload/shotgun/pumpreload1.ogg",
+            "guns/reload/shotgun/pumpreload2.ogg",
+            "guns/reload/shotgun/pumpreload3.ogg",
+            "guns/reload/shotgun/pumpreload4.ogg",
+            "guns/reload/shotgun/pumpreload5.ogg"
+        ]
+    }
+]
