@@ -1,0 +1,30 @@
+[
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "afs_mon_migoturret",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_utilibot_beehive",
+    "volume": 55,
+    "files": [
+      "robot/bot_default_1.ogg",
+      "robot/bot_default_2.ogg",
+      "robot/bot_default_3.ogg",
+      "robot/bot_default_4.ogg",
+      "robot/bot_default_5.ogg",
+      "robot/bot_default_6.ogg",
+      "robot/bot_default_7.ogg"
+    ]
+  }
+]

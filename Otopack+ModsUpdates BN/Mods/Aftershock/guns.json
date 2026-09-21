@@ -1,0 +1,41 @@
+[
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "afs_eidolon_derringer",
+        "files" : [
+            "guns/5x50/5x50_1.ogg",
+			"guns/5x50/5x50_2.ogg",
+			"guns/5x50/5x50_3.ogg",
+			"guns/5x50/5x50_4.ogg",
+			"guns/5x50/5x50_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "afs_eidolon_derringer",
+        "files" : [
+            "guns/5x50/5x50_1.ogg",
+			"guns/5x50/5x50_2.ogg",
+			"guns/5x50/5x50_3.ogg",
+			"guns/5x50/5x50_4.ogg",
+			"guns/5x50/5x50_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "afs_eidolon_derringer",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
+    }
+]

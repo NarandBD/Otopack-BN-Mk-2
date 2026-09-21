@@ -6,7 +6,7 @@ _**If you want to get the latest updates/version, download the zip from the gree
 
 Credits to SURVIVAL_MAN for the Original Otopack from the CDDA forums, Kenan2000 for his additions/fixes over the years and everyone else who has contributed during then.
 
-Also credits to Fris0uman for the feral screams and zombie moaning sounds!
+Also credits to Fris0uman for his work done for feral and zombie sounds for CC-Sounds.
 
 :D->-<|:
 
@@ -15,7 +15,7 @@ Also credits to Fris0uman for the feral screams and zombie moaning sounds!
 ### Recommended Volume Settings:
 Music : 60, adjust as needed. 
 
-If a specific track is too loud/quiet then you'll have to manually adjust the volume [within here.](https://github.com/NarandBD/Otopack-BN-Mk-2/blob/main/Otopack%2BModsUpdates%20BN/music/musicset.json), but _from_ the unzipped soundpack you downloaded. Follow the file path that's right below all the tabs (Code, Issues, Pull requests, etc) and use a text editor to edit.
+If a specific track is too loud/quiet then you'll have to manually adjust the volume [within here.](https://github.com/NarandBD/Otopack-BN-Mk-2/blob/main/Otopack%2BModsUpdates%20BN/music/musicset.json), but _from_ the unzipped soundpack you downloaded. Go into the soundpack, then music folder, then edit `musicset.json` with a text editor to adjust the volumes.
 
 Sound effects : 100
 
