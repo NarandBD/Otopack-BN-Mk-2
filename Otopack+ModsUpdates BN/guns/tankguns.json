@@ -190,10 +190,10 @@
         "volume" : 50,
         "variant" : "howitzer_gun",
         "files" : [
-           "mods/guns/others/155mm_1.ogg",
-		   "mods/guns/others/155mm_2.ogg",
-		   "mods/guns/others/155mm_3.ogg",
-		   "mods/guns/others/155mm_4.ogg"
+           "guns/others/155mm_1.ogg",
+		   "guns/others/155mm_2.ogg",
+		   "guns/others/155mm_3.ogg",
+		   "guns/others/155mm_4.ogg"
         ]
     },
 	{
@@ -202,10 +202,10 @@
         "volume" : 20,
         "variant" : "howitzer_gun",
         "files" : [
-           "mods/guns/others/155mm_1.ogg",
-		   "mods/guns/others/155mm_2.ogg",
-		   "mods/guns/others/155mm_3.ogg",
-		   "mods/guns/others/155mm_4.ogg"
+           "guns/others/155mm_1.ogg",
+		   "guns/others/155mm_2.ogg",
+		   "guns/others/155mm_3.ogg",
+		   "guns/others/155mm_4.ogg"
         ]
     },
 	{
@@ -227,10 +227,10 @@
         "volume" : 50,
         "variant" : "howitzer_gun_crude",
         "files" : [
-           "mods/guns/others/155mm_1.ogg",
-		   "mods/guns/others/155mm_2.ogg",
-		   "mods/guns/others/155mm_3.ogg",
-		   "mods/guns/others/155mm_4.ogg"
+           "guns/others/155mm_1.ogg",
+		   "guns/others/155mm_2.ogg",
+		   "guns/others/155mm_3.ogg",
+		   "guns/others/155mm_4.ogg"
         ]
     },
 	{
@@ -239,10 +239,10 @@
         "volume" : 20,
         "variant" : "howitzer_gun_crude",
         "files" : [
-           "mods/guns/others/155mm_1.ogg",
-		   "mods/guns/others/155mm_2.ogg",
-		   "mods/guns/others/155mm_3.ogg",
-		   "mods/guns/others/155mm_4.ogg"
+           "guns/others/155mm_1.ogg",
+		   "guns/others/155mm_2.ogg",
+		   "guns/others/155mm_3.ogg",
+		   "guns/others/155mm_4.ogg"
         ]
     },
 	{
@@ -336,10 +336,10 @@
         "volume" : 50,
         "variant" : "25mm_autocannon",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -348,10 +348,10 @@
         "volume" : 20,
         "variant" : "25mm_autocannon",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -373,10 +373,10 @@
         "volume" : 50,
         "variant" : "25mm_autocannon_sawn",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -385,10 +385,10 @@
         "volume" : 20,
         "variant" : "25mm_autocannon_sawn",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -410,10 +410,10 @@
         "volume" : 50,
         "variant" : "25mm_cannon_crude",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -422,10 +422,10 @@
         "volume" : 20,
         "variant" : "25mm_cannon_crude",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-		   "mods/guns/others/30mm_2.ogg",
-		   "mods/guns/others/30mm_3.ogg",
-		   "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+		   "guns/others/30mm_2.ogg",
+		   "guns/others/30mm_3.ogg",
+		   "guns/others/30mm_4.ogg"
         ]
     },
 	{
@@ -447,10 +447,10 @@
         "volume" : 50,
         "variant" : "25mm_rotary_cannon",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-           "mods/guns/others/30mm_2.ogg",
-           "mods/guns/others/30mm_3.ogg",
-           "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+           "guns/others/30mm_2.ogg",
+           "guns/others/30mm_3.ogg",
+           "guns/others/30mm_4.ogg"
         ]
     },
     {
@@ -459,10 +459,10 @@
         "volume" : 20,
         "variant" : "25mm_rotary_cannon",
         "files" : [
-           "mods/guns/others/30mm_1.ogg",
-           "mods/guns/others/30mm_2.ogg",
-           "mods/guns/others/30mm_3.ogg",
-           "mods/guns/others/30mm_4.ogg"
+           "guns/others/30mm_1.ogg",
+           "guns/others/30mm_2.ogg",
+           "guns/others/30mm_3.ogg",
+           "guns/others/30mm_4.ogg"
         ]
     },
     {
