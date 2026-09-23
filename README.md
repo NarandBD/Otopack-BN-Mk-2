@@ -1,4 +1,6 @@
-# This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, but I'm busy with real life stuff so updates will be infrequent.
+# Notice: This Soundpack is now bundled into CBNs Nightly releases. You shouldn't need to install this manually unless you're using an older Nightly, or need an updated version of this Soundpack.
+
+## This is a fork of Otopack for Cataclysm Bright Nights from Kenan2000. I plan on adding more sounds and fixes, but I'm busy with real life stuff so updates will be infrequent.
 
 Contributions from others are welcome, my sentiment is as long as it sounds like how it should w/o severe copyright issues then It's fine. i.e. using tf2/cs:source/gmod sound effects is kind of fine, but I use IRL sources as well.
 
