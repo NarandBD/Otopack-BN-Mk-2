@@ -112,6 +112,84 @@
 			"guns/reload/rifle/rifle_5.ogg"
         ]
     },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m1919browning",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m1919browning",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m1919browning",
+        "files" : [
+            "guns/reload/mg/mgk_1.ogg",
+			"guns/reload/mg/mgk_2.ogg",
+			"guns/reload/mg/mgk_3.ogg",
+			"guns/reload/mg/mgk_4.ogg",
+			"guns/reload/mg/mgk_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "m1919browning_stinger",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "m1919browning_stinger",
+        "files" : [
+            "guns/3006/3006_1.ogg",
+			"guns/3006/3006_2.ogg",
+			"guns/3006/3006_3.ogg",
+			"guns/3006/3006_4.ogg",
+			"guns/3006/3006_5.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "m1919browning_stinger",
+        "files" : [
+            "guns/reload/mg/mgk_1.ogg",
+			"guns/reload/mg/mgk_2.ogg",
+			"guns/reload/mg/mgk_3.ogg",
+			"guns/reload/mg/mgk_4.ogg",
+			"guns/reload/mg/mgk_5.ogg"
+        ]
+    },
 	{
         "type": "sound_effect",
         "id" : "fire_gun",
