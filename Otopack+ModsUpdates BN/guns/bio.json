@@ -23,6 +23,26 @@
         "type": "sound_effect",
         "id" : "fire_gun",
         "volume" : 75,
+        "variant" : "bio_powershot",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 40,
+        "variant" : "bio_powershot",
+        "files" : [
+            "guns/eweapons/bio_blaster_gun_1.ogg",
+			"guns/eweapons/bio_blaster_gun_2.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
         "variant" : "bio_laser_gun",
         "files" : [
             "guns/eweapons/bio_laser_gun_1.ogg",

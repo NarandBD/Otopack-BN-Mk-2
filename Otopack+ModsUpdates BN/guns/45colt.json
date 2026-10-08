@@ -133,5 +133,50 @@
 			"guns/reload/revolver/revolver_4.ogg",
 			"guns/reload/revolver/revolver_5.ogg"
         ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "fire_gun",
+        "volume" : 75,
+        "variant" : "taurus_judge",
+        "files" : [
+            "guns/45/45_1.ogg",
+			"guns/45/45_2.ogg",
+			"guns/45/45_3.ogg",
+			"guns/45/45_4.ogg",
+			"guns/45/45_5.ogg",
+			"guns/45/45_6.ogg",
+			"guns/45/45_7.ogg",
+			"guns/45/45_8.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "fire_gun_distant",
+        "volume" : 60,
+        "variant" : "taurus_judge",
+        "files" : [
+            "guns/45/45_1.ogg",
+			"guns/45/45_2.ogg",
+			"guns/45/45_3.ogg",
+			"guns/45/45_4.ogg",
+			"guns/45/45_5.ogg",
+			"guns/45/45_6.ogg",
+			"guns/45/45_7.ogg",
+			"guns/45/45_8.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "reload",
+        "volume" : 75,
+        "variant" : "taurus_judge",
+        "files" : [
+            "guns/reload/revolver/revolver_1.ogg",
+			"guns/reload/revolver/revolver_2.ogg",
+			"guns/reload/revolver/revolver_3.ogg",
+			"guns/reload/revolver/revolver_4.ogg",
+			"guns/reload/revolver/revolver_5.ogg"
+        ]
     }
 ]
