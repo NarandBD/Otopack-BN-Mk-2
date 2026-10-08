@@ -31,14 +31,14 @@
     "id": "fire_gun",
     "volume": 50,
     "variant": "bloodscourge",
-    "files": [ "Mods/arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge_1.ogg", "Mods/arcana/bloodscourge_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 20,
     "variant": "bloodscourge",
-    "files": [ "Mods/arcana/bloodscourge.ogg" ]
+    "files": [ "Mods/arcana/bloodscourge_1.ogg", "Mods/arcana/bloodscourge_2.ogg" ]
   },
   {
     "type": "sound_effect",
