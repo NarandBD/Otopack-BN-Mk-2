@@ -2,14 +2,14 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "volume": 50,
+    "volume": 75,
     "variant": "thunder_sigil",
     "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
-    "volume": 20,
+    "volume": 60,
     "variant": "thunder_sigil",
     "files": [ "Mods/arcana/thunder_sigil_1.ogg", "Mods/arcana/thunder_sigil_2.ogg" ]
   },
@@ -110,14 +110,14 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "volume": 50,
+    "volume": 75,
     "variant": "ethereal_huge_crossbow",
     "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
-    "volume": 20,
+    "volume": 60,
     "variant": "ethereal_huge_crossbow",
     "files": [ "Mods/arcana/ethereal_crossbow_1.ogg", "Mods/arcana/ethereal_crossbow_2.ogg", "Mods/arcana/ethereal_crossbow_3.ogg" ]
   },
@@ -137,14 +137,14 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "volume": 50,
+    "volume": 75,
     "variant": "hand_of_armok",
     "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
-    "volume": 20,
+    "volume": 60,
     "variant": "hand_of_armok",
     "files": [ "Mods/arcana/hand_of_armok.ogg" ]
   },
@@ -191,37 +191,41 @@
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "volume": 50,
+    "volume": 75,
     "variant": "electrothermal_arc_cannon",
     "files": [ "guns/eweapons/emp_gun_1.ogg", "guns/eweapons/emp_gun_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
-    "volume": 20,
+    "volume": 40,
     "variant": "electrothermal_arc_cannon",
     "files": [ "guns/eweapons/emp_gun_1.ogg", "guns/eweapons/emp_gun_2.ogg" ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun",
-    "volume": 50,
+    "volume": 75,
     "variant": "rift_focus_cannon",
     "files": [
-      "guns/eweapons/heavy_rail_rifle_1.ogg",
-      "guns/eweapons/heavy_rail_rifle_2.ogg",
-      "guns/eweapons/heavy_rail_rifle_3.ogg"
+      "guns/eweapons/gatling_mech_laser_1.ogg",
+      "guns/eweapons/gatling_mech_laser_2.ogg",
+      "guns/eweapons/gatling_mech_laser_3.ogg",
+      "guns/eweapons/gatling_mech_laser_4.ogg",
+      "guns/eweapons/gatling_mech_laser_5.ogg"
     ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
-    "volume": 20,
+    "volume": 60,
     "variant": "rift_focus_cannon",
     "files": [
-      "guns/eweapons/heavy_rail_rifle_1.ogg",
-      "guns/eweapons/heavy_rail_rifle_2.ogg",
-      "guns/eweapons/heavy_rail_rifle_3.ogg"
+      "guns/eweapons/gatling_mech_laser_1.ogg",
+      "guns/eweapons/gatling_mech_laser_2.ogg",
+      "guns/eweapons/gatling_mech_laser_3.ogg",
+      "guns/eweapons/gatling_mech_laser_4.ogg",
+      "guns/eweapons/gatling_mech_laser_5.ogg"
     ]
   },
   {
@@ -404,22 +408,30 @@
     "id": "fire_gun",
     "volume": 75,
     "variant": "shrike_misericorde_folded",
-    "files": [ "guns/flintlock/pistol_1.ogg", "guns/flintlock/pistol_2.ogg", "guns/flintlock/pistol_4.ogg", "guns/flintlock/pistol_5.ogg" ]
+    "files": [
+      "guns/flintlock/pistol_1.ogg",
+      "guns/flintlock/pistol_2.ogg",
+      "guns/flintlock/pistol_4.ogg",
+      "guns/flintlock/pistol_5.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "fire_gun_distant",
     "volume": 40,
     "variant": "shrike_misericorde_folded",
-    "files": [ "guns/flintlock/pistol_1.ogg", "guns/flintlock/pistol_2.ogg", "guns/flintlock/pistol_4.ogg", "guns/flintlock/pistol_5.ogg" ]
+    "files": [
+      "guns/flintlock/pistol_1.ogg",
+      "guns/flintlock/pistol_2.ogg",
+      "guns/flintlock/pistol_4.ogg",
+      "guns/flintlock/pistol_5.ogg"
+    ]
   },
   {
     "type": "sound_effect",
     "id": "reload",
     "volume": 75,
     "variant": "shrike_misericorde_folded",
-    "files": [
-      "guns/reload/others/flintlock.ogg"
-    ]
+    "files": [ "guns/reload/others/flintlock.ogg" ]
   }
 ]
