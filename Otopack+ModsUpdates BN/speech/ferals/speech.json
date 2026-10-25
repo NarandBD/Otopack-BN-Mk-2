@@ -225,22 +225,122 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_soldier_rifle",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_soldier_lmg",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_soldier_shotgun",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
+    "id": "speech",
+    "variant": "mon_feral_soldier_sniper",
+    "volume": 90,
+    "files": [
+      "speech/ferals/female_scream_1.ogg",
+      "speech/ferals/female_scream_2.ogg",
+      "speech/ferals/male_scream_1.ogg",
+      "speech/ferals/male_scream_2.ogg",
+      "speech/ferals/creepy_laugh.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_1.ogg",
+      "speech/ferals/female_anguish_heavy_breathing_2.ogg",
+      "speech/ferals/female_mad_whisper_1.ogg",
+      "speech/ferals/female_mad_whisper_2.ogg",
+      "speech/ferals/male_heavy_breathing_1.ogg",
+      "speech/ferals/male_mumbling_1.ogg",
+      "speech/ferals/male_mumbling_2.ogg",
+      "speech/ferals/male_scared_heavy_breathing_1.ogg",
+      "speech/ferals/male_scared_heavy_breathing_2.ogg",
+      "speech/ferals/old_man_hesitant_rambling.ogg",
+      "speech/ferals/die_scream_1.ogg",
+      "speech/ferals/die_scream_2.ogg"
+    ]
+  },
+  {
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_human_chainsaw",
     "volume": 40,
     "files": [
-	  "melee/chainsaw/saw_start_1.ogg",
-	  "melee/chainsaw/saw_start_2.ogg",
-	  "melee/chainsaw/saw_idle_loop_1.ogg",
-	  "melee/chainsaw/saw_rev_start_1.ogg",
-	  "melee/chainsaw/saw_rev_loop.ogg",
-	  "melee/chainsaw/saw_rev_end_1.ogg",
-	  "melee/chainsaw/saw_swing_full.ogg"
+      "melee/chainsaw/saw_start_1.ogg",
+      "melee/chainsaw/saw_start_2.ogg",
+      "melee/chainsaw/saw_idle_loop_1.ogg",
+      "melee/chainsaw/saw_rev_start_1.ogg",
+      "melee/chainsaw/saw_rev_loop.ogg",
+      "melee/chainsaw/saw_rev_end_1.ogg",
+      "melee/chainsaw/saw_swing_full.ogg"
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_scientist_scalpel",
     "volume": 90,
@@ -265,7 +365,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_labsecurity_9mm",
     "volume": 90,
@@ -290,7 +390,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_jackboot",
     "volume": 90,
@@ -315,7 +415,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_maid_broom",
     "volume": 90,
@@ -340,7 +440,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_maid_candlestick",
     "volume": 90,
@@ -365,7 +465,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_maid_knife",
     "volume": 90,
@@ -390,7 +490,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_fancy_rapier",
     "volume": 90,
@@ -415,7 +515,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_fancy_rapier_fake",
     "volume": 90,
@@ -440,7 +540,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_fancy_crossbow",
     "volume": 90,
@@ -465,7 +565,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_armored_mace",
     "volume": 90,
@@ -490,7 +590,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_armored_battleaxe",
     "volume": 90,
@@ -515,7 +615,7 @@
     ]
   },
   {
-	"type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_prepper",
     "volume": 90,
@@ -540,7 +640,7 @@
     ]
   },
   {
-  "type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_swat_boss_commander",
     "volume": 50,
@@ -558,7 +658,7 @@
     ]
   },
   {
-  "type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_swat_boss_shieldman",
     "volume": 50,
@@ -576,7 +676,7 @@
     ]
   },
   {
-  "type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_swat_boss_grenadier",
     "volume": 50,
@@ -594,7 +694,7 @@
     ]
   },
   {
-  "type": "sound_effect",
+    "type": "sound_effect",
     "id": "speech",
     "variant": "mon_feral_swat_boss_cloaker",
     "volume": 50,
