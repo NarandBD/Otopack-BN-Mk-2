@@ -1350,5 +1350,34 @@
         "files" : [
 			"effects/misc/insect_wings.ogg"
 		]
-	}
+	},
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "chainsaw",
+        "volume" : 70,
+        "files" : [
+            "melee/chainsaw/saw_idle_loop_1.ogg"
+        ]
+    },
+    {
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "circsaw",
+        "volume" : 50,
+        "files" : [
+            "melee/chainsaw/circsaw.ogg"
+        ]
+    },
+	{
+        "type": "sound_effect",
+        "id" : "tool",
+        "variant" : "fireweapon_lit",
+        "volume" : 60,
+        "files" : [
+            "effects/misc/fire_ignition_1.ogg",
+			"effects/misc/fire_ignition_2.ogg",
+			"effects/misc/fire_ignition_3.ogg"
+        ]
+    }
 ]
